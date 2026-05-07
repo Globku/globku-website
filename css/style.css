@@ -5,15 +5,15 @@
   --bg-secondary: #0d1220;
   --bg-card: #111827;
   --bg-card-hover: #162030;
-  --accent: #e8b84b;
-  --accent-dim: #c49a30;
-  --accent-glow: rgba(232, 184, 75, 0.12);
+  --accent: #4ecb33;
+  --accent-dim: #3aad21;
+  --accent-glow: rgba(78, 203, 51, 0.12);
   --red: #e84b4b;
   --text-primary: #f0ede6;
   --text-secondary: #8a95a8;
   --text-muted: #4a5568;
   --border: rgba(255,255,255,0.07);
-  --border-accent: rgba(232, 184, 75, 0.3);
+  --border-accent: rgba(78, 203, 51, 0.3);
   --font-display: 'Bebas Neue', sans-serif;
   --font-ui: 'Rajdhani', sans-serif;
   --font-body: 'Inter', sans-serif;
@@ -133,8 +133,8 @@ nav {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 80% 60% at 60% 50%, rgba(232,184,75,0.06) 0%, transparent 70%),
-    radial-gradient(ellipse 40% 40% at 20% 80%, rgba(232,75,75,0.04) 0%, transparent 60%);
+    radial-gradient(ellipse 80% 60% at 60% 50%, rgba(78,203,51,0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 40% at 20% 80%, rgba(78,203,51,0.03) 0%, transparent 60%);
 }
 
 .hero-grid {
@@ -431,20 +431,19 @@ nav {
   letter-spacing: 0.05em;
 }
 
-.score-badge {
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  line-height: 1;
-  padding: 0.2rem 0.6rem;
-  border: 1px solid;
-  min-width: 52px;
-  text-align: center;
+.bushi-score {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 
-.score-great { color: #4bcd8a; border-color: rgba(75,205,138,0.4); background: rgba(75,205,138,0.08); }
-.score-good  { color: #4ba6e8; border-color: rgba(75,166,232,0.4); background: rgba(75,166,232,0.08); }
-.score-ok    { color: var(--accent); border-color: var(--border-accent); background: var(--accent-glow); }
-.score-bad   { color: var(--red); border-color: rgba(232,75,75,0.4); background: rgba(232,75,75,0.08); }
+.bushi-score-large {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
 
 /* ─── REVIEWS PAGE ─── */
 .reviews-header {
@@ -566,7 +565,7 @@ nav {
   letter-spacing: 0.02em;
 }
 
-.about-tagline .gold { color: var(--accent); }
+.about-tagline .green { color: var(--accent); }
 
 .about-bio {
   display: flex;

@@ -4,7 +4,7 @@ const reviews = [
     title: "Blue Protocol",
     genre: "MMORPG",
     platform: "PC",
-    score: 72,
+    score: 7,
     date: "March 2025",
     excerpt: "A visually stunning anime MMO that struggles to differentiate itself in a crowded genre, but offers enough charm for fans of the aesthetic.",
     content: `
@@ -25,7 +25,7 @@ const reviews = [
     title: "Granblue Fantasy: Relink",
     genre: "Action RPG",
     platform: "PC / PS5",
-    score: 88,
+    score: 9,
     date: "February 2025",
     excerpt: "A near-perfect translation of a beloved gacha universe into an action RPG, with combat that ranks among the genre's best.",
     content: `
@@ -46,7 +46,7 @@ const reviews = [
     title: "Dragon Ball: Sparking! Zero",
     genre: "Fighting",
     platform: "PC / PS5 / Xbox",
-    score: 85,
+    score: 8,
     date: "January 2025",
     excerpt: "The Budokai Tenkaichi revival delivers the chaos and scale of Dragon Ball combat in a package that understands exactly what fans wanted.",
     content: `
@@ -67,7 +67,7 @@ const reviews = [
     title: "Sword Art Online: Last Recollection",
     genre: "Action RPG",
     platform: "PC / PS4 / PS5",
-    score: 61,
+    score: 6,
     date: "December 2024",
     excerpt: "A serviceable SAO entry that will satisfy fans of the IP but struggles to justify itself to anyone unfamiliar with the source material.",
     content: `
@@ -86,7 +86,7 @@ const reviews = [
     title: "Honkai: Star Rail",
     genre: "Turn-Based RPG",
     platform: "PC / Mobile / PS5",
-    score: 90,
+    score: 9,
     date: "November 2024",
     excerpt: "HoYoverse's turn-based RPG demonstrates that the gacha genre and genuinely excellent game design are not mutually exclusive.",
     content: `
@@ -105,7 +105,7 @@ const reviews = [
     title: "Naruto x Boruto: Ultimate Ninja Storm Connections",
     genre: "Fighting",
     platform: "PC / PS4 / PS5 / Switch",
-    score: 69,
+    score: 7,
     date: "October 2024",
     excerpt: "A competent franchise anniversary celebration that leans too heavily on nostalgia over meaningful evolution.",
     content: `
@@ -121,11 +121,8 @@ const reviews = [
   }
 ];
 
-function getScoreClass(score) {
-  if (score >= 85) return 'score-great';
-  if (score >= 70) return 'score-good';
-  if (score >= 55) return 'score-ok';
-  return 'score-bad';
+function bushiImg(score, size = '') {
+  return `<img src="images/bushi/bushi-${score}.png" alt="Score: ${score}/10" class="bushi-score${size ? '-' + size : ''}" onerror="this.style.display='none'">`;
 }
 
 function renderCard(review, clickable = true) {
@@ -141,7 +138,7 @@ function renderCard(review, clickable = true) {
         <p class="card-excerpt">${review.excerpt}</p>
         <div class="card-footer">
           <span class="card-date">${review.date}</span>
-          <span class="score-badge ${getScoreClass(review.score)}">${review.score}</span>
+          ${bushiImg(review.score)}
         </div>
       </div>
     </div>
@@ -173,7 +170,7 @@ function openReview(id) {
         </div>
         <h1 class="review-detail-title">${review.title}</h1>
         <div class="review-detail-meta">
-          <span class="score-badge ${getScoreClass(review.score)}" style="font-size: 2rem; padding: 0.3rem 0.9rem;">${review.score}</span>
+          ${bushiImg(review.score, 'large')}
           <span class="card-date" style="font-size: 0.85rem;">${review.date}</span>
         </div>
         <p style="font-size:1rem; color: var(--text-secondary); max-width: 600px; line-height: 1.7;">${review.excerpt}</p>
