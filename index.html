@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Globku — Anime Game Reviews</title>
+  <meta name="description" content="In-depth reviews of anime games by Globku. Honest, informed critique of the latest titles from Dragon Ball to Granblue Fantasy.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+
+  <!-- ─── NAV ─── -->
+  <nav>
+    <a href="#" class="nav-logo" onclick="navigateTo('page-home'); return false;">GLOB<span>KU</span></a>
+    <ul class="nav-links">
+      <li><a href="#" data-page="page-home" class="active">Home</a></li>
+      <li><a href="#" data-page="page-reviews">Reviews</a></li>
+      <li><a href="#" data-page="page-about">About</a></li>
+    </ul>
+  </nav>
+
+  <!-- ─── HOME ─── -->
+  <div id="page-home" class="page active">
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-grid"></div>
+      <div class="hero-content">
+        <div class="hero-eyebrow">Anime Game Reviews</div>
+        <h1 class="hero-title">
+          HONEST<br>
+          <span class="line2">CRITIQUE.</span>
+        </h1>
+        <p class="hero-subtitle">
+          In-depth written reviews of anime games from someone who's been playing and covering this space for over a decade. No hype — just considered, honest analysis.
+        </p>
+        <div class="hero-actions">
+          <a href="#" class="btn-primary" onclick="navigateTo('page-reviews'); return false;">Read Reviews</a>
+          <a href="#" class="btn-ghost" onclick="navigateTo('page-about'); return false;">About Globku</a>
+        </div>
+        <div class="hero-stat-bar">
+          <div class="hero-stat">
+            <span class="hero-stat-num">10+</span>
+            <span class="hero-stat-label">Years Covering</span>
+          </div>
+          <div class="hero-stat">
+            <span class="hero-stat-num">50+</span>
+            <span class="hero-stat-label">Games Reviewed</span>
+          </div>
+          <div class="hero-stat">
+            <span class="hero-stat-num">1M+</span>
+            <span class="hero-stat-label">YouTube Subs</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2 class="section-title">RECENT <span>REVIEWS</span></h2>
+        <a href="#" class="section-link" onclick="navigateTo('page-reviews'); return false;">All reviews →</a>
+      </div>
+      <div class="reviews-grid" id="home-reviews"></div>
+    </section>
+  </div>
+
+  <!-- ─── REVIEWS ─── -->
+  <div id="page-reviews" class="page">
+    <div class="reviews-header">
+      <div class="reviews-header-inner">
+        <div class="page-eyebrow">Written Critique</div>
+        <h1 class="page-title">ALL REVIEWS</h1>
+        <p class="page-desc">Every review is written independently. Scores reflect the full experience — story, gameplay, performance, and value — weighted against genre expectations.</p>
+      </div>
+    </div>
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="rpg">RPG</button>
+      <button class="filter-btn" data-filter="fighting">Fighting</button>
+      <button class="filter-btn" data-filter="mmorpg">MMO</button>
+    </div>
+    <div class="reviews-page-grid" id="all-reviews"></div>
+  </div>
+
+  <!-- ─── ABOUT ─── -->
+  <div id="page-about" class="page">
+    <div class="about-hero">
+      <div class="about-hero-inner">
+        <div>
+          <h1 class="about-tagline">
+            THE<br>
+            ANIME<br>
+            <span class="gold">GAME GUY.</span>
+          </h1>
+        </div>
+        <div class="about-bio">
+          <p>
+            I'm <strong>Globku</strong> — a content creator and game critic who has spent over a decade focused specifically on anime games. Not as a side category, but as a genuine specialization.
+          </p>
+          <p>
+            Anime games occupy a unique space in the industry. They're often made for dedicated fanbases, developed on varied budgets, and evaluated by audiences who bring deep investment to every release. Generic criticism rarely captures what makes them succeed or fail on their own terms.
+          </p>
+          <p>
+            This site exists to bring <strong>informed, honest written critique</strong> to that space — the kind that takes the genre seriously without excusing its flaws, and recognizes its strengths without overhyping them.
+          </p>
+          <p>
+            Scores are given out of 100. They reflect the complete experience: gameplay depth, presentation, value, and how well the game delivers on its specific promises.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="about-section">
+      <h2 class="section-title">HOW I <span>REVIEW</span></h2>
+      <div class="about-grid">
+        <div class="about-card">
+          <div class="about-card-icon">01</div>
+          <h3>Full Playthrough</h3>
+          <p>Reviews are based on complete playthroughs, not preview builds. I don't publish until I've seen the credits and spent meaningful time with endgame content where applicable.</p>
+        </div>
+        <div class="about-card">
+          <div class="about-card-icon">02</div>
+          <h3>Genre Context</h3>
+          <p>Anime games are reviewed within their genre and alongside comparable titles — not against AAA blockbusters. A solid arena fighter is evaluated as an arena fighter, not as if it's competing with Elden Ring.</p>
+        </div>
+        <div class="about-card">
+          <div class="about-card-icon">03</div>
+          <h3>IP Awareness</h3>
+          <p>I understand the source material. Whether it's Dragon Ball, Naruto, or a niche gacha universe, I review knowing what the fanbase expects and whether the game delivers on those specific promises.</p>
+        </div>
+      </div>
+
+      <div class="yt-link-block">
+        <svg class="yt-icon" viewBox="0 0 90 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M88.1 9.9C87.1 6.3 84.3 3.5 80.7 2.5C73.6 0.6 45.4 0.6 45.4 0.6C45.4 0.6 17.2 0.6 10.1 2.5C6.5 3.5 3.7 6.3 2.7 9.9C0.8 17 0.8 31.5 0.8 31.5C0.8 31.5 0.8 46 2.7 53.1C3.7 56.7 6.5 59.5 10.1 60.5C17.2 62.4 45.4 62.4 45.4 62.4C45.4 62.4 73.6 62.4 80.7 60.5C84.3 59.5 87.1 56.7 88.1 53.1C90 46 90 31.5 90 31.5C90 31.5 90 17 88.1 9.9Z" fill="#FF0000"/>
+          <path d="M36.4 44.9L59.4 31.5L36.4 18.1V44.9Z" fill="white"/>
+        </svg>
+        <div>
+          <h3>Also on YouTube</h3>
+          <p>Video content, impressions, and deep dives on the Globku channel — where this all started. Over a decade of anime game coverage.</p>
+          <a href="https://youtube.com/@globku" target="_blank" class="btn-primary">Visit Channel</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ─── REVIEW DETAIL ─── -->
+  <div id="review-detail" class="review-detail"></div>
+
+  <!-- ─── FOOTER ─── -->
+  <footer>
+    <div class="footer-logo">GLOBKU</div>
+    <div class="footer-text">© 2025 Globku · Anime Game Reviews</div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
