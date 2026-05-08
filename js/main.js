@@ -13,6 +13,7 @@ function loadReviews() {
       }
       initHome();
       initReviews();
+      handleHash();
     })
     .catch(() => {
       console.warn('Could not load reviews.json');
@@ -54,6 +55,7 @@ function navigateTo(pageId) {
     a.classList.toggle('active', a.dataset.page === pageId);
   });
   document.getElementById('review-detail').classList.remove('active');
+  history.pushState(null, '', ' ');
   window.scrollTo(0, 0);
 }
 
@@ -96,12 +98,25 @@ function openReview(id) {
 
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   detail.classList.add('active');
+  history.pushState(null, '', '#review-' + id);
   window.scrollTo(0, 0);
 }
 
 function closeReview() {
   document.getElementById('review-detail').classList.remove('active');
   navigateTo('page-reviews');
+}
+
+function handleHash() {
+  const hash = window.location.hash;
+  if (hash.startsWith('#review-')) {
+    const id = parseInt(hash.replace('#review-', ''));
+    if (!isNaN(id)) {
+      openReview(id);
+      return true;
+    }
+  }
+  return false;
 }
 
 function initHome() {
