@@ -3,6 +3,7 @@ const reviews = [
     id: 1,
     title: "Blue Protocol",
     genre: "MMORPG",
+    ip: "blue protocol",
     platform: "PC",
     score: 7,
     date: "March 2025",
@@ -24,6 +25,7 @@ const reviews = [
     id: 2,
     title: "Granblue Fantasy: Relink",
     genre: "Action RPG",
+    ip: "granblue",
     platform: "PC / PS5",
     score: 9,
     date: "February 2025",
@@ -45,6 +47,7 @@ const reviews = [
     id: 3,
     title: "Dragon Ball: Sparking! Zero",
     genre: "Fighting",
+    ip: "dragon ball",
     platform: "PC / PS5 / Xbox",
     score: 8,
     date: "January 2025",
@@ -66,6 +69,7 @@ const reviews = [
     id: 4,
     title: "Sword Art Online: Last Recollection",
     genre: "Action RPG",
+    ip: "sword art online",
     platform: "PC / PS4 / PS5",
     score: 6,
     date: "December 2024",
@@ -85,6 +89,7 @@ const reviews = [
     id: 5,
     title: "Honkai: Star Rail",
     genre: "Turn-Based RPG",
+    ip: "honkai",
     platform: "PC / Mobile / PS5",
     score: 9,
     date: "November 2024",
@@ -104,6 +109,7 @@ const reviews = [
     id: 6,
     title: "Naruto x Boruto: Ultimate Ninja Storm Connections",
     genre: "Fighting",
+    ip: "naruto",
     platform: "PC / PS4 / PS5 / Switch",
     score: 7,
     date: "October 2024",
@@ -130,14 +136,12 @@ function renderCard(review, clickable = true) {
     <div class="review-card" ${clickable ? `onclick="openReview(${review.id})"` : ''}>
       <div class="card-img-placeholder">${review.title.charAt(0)}</div>
       <div class="card-body">
-        <div class="card-meta">
-          <span class="card-genre">${review.genre}</span>
-          <span class="card-platform">${review.platform}</span>
-        </div>
         <h3 class="card-title">${review.title}</h3>
-        <p class="card-excerpt">${review.excerpt}</p>
         <div class="card-footer">
-          <span class="card-date">${review.date}</span>
+          <div class="card-footer-left">
+            <span class="card-platform">${review.platform}</span>
+            <span class="card-date">${review.date}</span>
+          </div>
           ${bushiImg(review.score)}
         </div>
       </div>
@@ -201,7 +205,7 @@ function initHome() {
 }
 
 function initReviews(filter = 'all') {
-  const filtered = filter === 'all' ? reviews : reviews.filter(r => r.genre.toLowerCase().includes(filter));
+  const filtered = filter === 'all' ? reviews : reviews.filter(r => r.ip && r.ip.includes(filter));
   document.getElementById('all-reviews').innerHTML = filtered.map(r => renderCard(r)).join('');
 
   document.querySelectorAll('.filter-btn').forEach(btn => {
