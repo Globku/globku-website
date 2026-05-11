@@ -12,6 +12,7 @@ function loadReviews() {
         countEl.textContent = rounded + '+';
       }
       initHome();
+      buildFilterBar();
       initReviews();
       handleHash();
     })
@@ -124,6 +125,65 @@ function initHome() {
   document.getElementById('home-reviews').innerHTML = featured.map(r => renderCard(r)).join('');
 }
 
+function buildFilterBar() {
+  const bar = document.getElementById('filter-bar');
+  if (!bar) return;
+
+  // Count reviews per IP tag
+  const counts = {};
+  reviews.forEach(r => {
+    if (r.ip) counts[r.ip] = (counts[r.ip] || 0) + 1;
+  });
+
+  // Sort by count descending
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const top3 = sorted.slice(0, 3);
+  const rest = sorted.slice(3);
+
+  // Label formatter: capitalise each word
+  const label = ip => ip.replace(/\b\w/g, c => c.toUpperCase());
+
+  const makeBtn = ([ip]) => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = ip;
+    btn.textContent = label(ip);
+    btn.addEventListener('click', () => initReviews(ip));
+    return btn;
+  };
+
+  // Clear everything except the All button
+  bar.innerHTML = '';
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-btn active';
+  allBtn.dataset.filter = 'all';
+  allBtn.textContent = 'All';
+  allBtn.addEventListener('click', () => initReviews('all'));
+  bar.appendChild(allBtn);
+
+  top3.forEach(entry => bar.appendChild(makeBtn(entry)));
+
+  if (rest.length > 0) {
+    // Hidden extra buttons
+    const extras = document.createElement('span');
+    extras.className = 'filter-extras';
+    extras.style.display = 'none';
+    rest.forEach(entry => extras.appendChild(makeBtn(entry)));
+    bar.appendChild(extras);
+
+    // More / Less toggle
+    const toggle = document.createElement('button');
+    toggle.className = 'filter-btn filter-more';
+    toggle.textContent = 'More ▾';
+    toggle.addEventListener('click', () => {
+      const open = extras.style.display !== 'none';
+      extras.style.display = open ? 'none' : 'inline-flex';
+      toggle.textContent = open ? 'More ▾' : 'Less ▴';
+    });
+    bar.appendChild(toggle);
+  }
+}
+
 function initReviews(filter = 'all') {
   const filtered = filter === 'all' ? reviews : reviews.filter(r => r.ip && r.ip.includes(filter));
   document.getElementById('all-reviews').innerHTML = filtered.map(r => renderCard(r)).join('');
@@ -143,7 +203,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => initReviews(btn.dataset.filter));
-  });
+  
 });
