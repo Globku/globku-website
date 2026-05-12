@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Naruto: Rise of a Ninja",
+    "ip": "naruto",
+    "image": "images/narutoroan.jpg",
+    "platform": "Reviewed on Xbox 360",
+    "score": 7,
+    "date": "May 12, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Rise of a Ninja's main goal is to make you feel what it's like to live in Naruto's world, through his perspective. Many Naruto games have tried this, but very few have been as successful at doing so as Rise of a Ninja. This open world action adventure game is incredible as a retelling of the early Naruto episodes. However, as a video game, while it does have its creative gimmicks, it fails to stick the landing on its very core mechanics."
+      },
+      {
+        "type": "heading",
+        "text": "The True Naruto Experience"
+      },
+      {
+        "type": "paragraph",
+        "text": "This game looks incredible (for its time), and the way it merges the original anime with CG cutscenes is unlike anything I've ever seen before. I was not only impressed but also immersed, like I was watching this show again for the first time. The original anime soundtrack also contributes a lot to this sense of immersion. But it goes beyond just simple cinematic visuals. Many missions have uniquely crafted gameplay with custom objectives or quick time events that fit the tension and gravity of each moment. Even side missions are encouraged, beyond the usual currency and bonus rewards you get, because the more objectives you complete, the more villagers acknowledge Naruto (everyone hates him at the start). These villagers are physical NPCs spread throughout the village, and the more friendly NPCs you have, the easier it is to track down your next objective, and the less time you spend lost around Konoha."
+      },
+      {
+        "type": "heading",
+        "text": "Exploring The World"
+      },
+      {
+        "type": "paragraph",
+        "text": "The star of this open world is definitely Konoha. The village is completely open, and the more you play, the more abilities you gain to explore it, like climbing up walls, grinding on the rails or even walking on water. Outside the village, paths tend to be a bit linear, which would stretch the definition of an open world by today's standards. Exploring this place is where things start to fall apart gameplay wise, as Naruto feels heavy when running around. The acceleration of the character is abrupt, the jump stops the momentum in a way that's not very natural or satisfying, and the controls feel delayed enough that it's easy to get frustrated when faced with tighter platforming challenges. Plus, your objectives are generally very dull, like collecting coins or completing some uninspired side missions. Overall, Naruto doesn't feel good to control, and that affects the entire exploration side of this game."
+      },
+      {
+        "type": "heading",
+        "text": "Fight Like a Ninja"
+      },
+      {
+        "type": "paragraph",
+        "text": "Combat doesn't suffer from the same delay problems. Controls are responsive, characters have a decent number of combos to learn, and performing jutsu can be done by tilting both sticks in specific directions, emulating ninjutsu signs. Successfully performing a jutsu triggers a mini game and a cutscene that both the attacking and the defending player are competing against. These go from pressing a random button quicker than your opponent, to first person aiming or even button mashing. And if you get caught, you can escape a combo by spending a little bit of chakra, performing a substitution jutsu. This combat is fun... if you're playing it against the CPU. Against another player, things quickly devolve into a substitution festival, and on every opponent knockdown, you're going to see the same jutsu cutscenes repeated over and over, as that's the optimal way of dealing damage. It's a combat system that was definitely designed for single player first and multiplayer second. It can be fun to play with friends for a while, as long as neither player gets too good at it."
+      }
+    ],
+    "verdict": "One of the greatest Naruto games ever made to immerse yourself in the Naruto story, and relive those first episodes, if you're willing to put up with some gameplay jank and suffer through some monotonous side activities."
+  }
+]
