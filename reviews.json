@@ -1,7 +1,810 @@
 [
   {
+    "id": 24,
+    "title": "Goku (SSJ4 Daima)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/H7bAaz9zW-Y",
+    "ip": "",
+    "image": "images/dbfz_gokussj4.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 23,
+    "title": "Android 21 (Lab Coat)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/sxwTL6zGVPE",
+    "ip": "",
+    "image": "images/dbfz_labcoat.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 22,
+    "title": "Gogeta (SSJ4)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/XzoduLSOCos",
+    "ip": "",
+    "image": "images/dbfz_gogetassj4.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 21,
+    "title": "Super Baby 2",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/OAcDxBijk7w",
+    "ip": "",
+    "image": "images/dbfz_superbaby2.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 20,
+    "title": "Master Roshi",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/jLcHgQhV4lM",
+    "ip": "",
+    "image": "images/dbfz_roshi.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 19,
+    "title": "Goku (Ultra Instinct)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/KcnWJhk3Kxs",
+    "ip": "",
+    "image": "images/dbfz_gokuui.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 10,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 18,
+    "title": "Kefla",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/eEgaxY_7q6A",
+    "ip": "",
+    "image": "images/dbfz_kefla.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 17,
+    "title": "Broly (Super)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/kQzjiauVYhs",
+    "ip": "",
+    "image": "images/dbfz_brolysuper.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 10,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 16,
+    "title": "Gogeta (SSGSS)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/KwT8V0nXcfU",
+    "ip": "",
+    "image": "images/dbfz_gogetablue.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 10,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 15,
+    "title": "Janemba",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/W91V51kzbz4",
+    "ip": "",
+    "image": "images/dbfz_janemba.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 14,
+    "title": "Goku (GT)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/6q7L9-lQ2ns",
+    "ip": "",
+    "image": "images/dbfz_gokugt.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 13,
+    "title": "Videl",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/JO6fXAKu7sU",
+    "ip": "",
+    "image": "images/dbfz_videl.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The only character in FighterZ that doesn't have a Reflect. She's a very complete character, that can summon the Great Saiyaman to shoot ki blasts for her."
+      },
+      {
+        "type": "heading",
+        "text": "No Energy, No Problem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Videl is another rekka character. This time the rekka has some cross up and command grab options. Not as powerful of a rekka as Android 17's, but she can pull off a lot of these moves without the rekka, making her very unpredictable on block.\n\nShe also has a DP. That's always nice to have."
+      },
+      {
+        "type": "heading",
+        "text": "A True Martial Artist"
+      },
+      {
+        "type": "paragraph",
+        "text": "She has FOUR SUPERS!\nTwo Level 1s, both very unique, as one of them is a Kick that you can combo from (if you put it early enough in the combo), and the other one is a parry, where the Great Saiyaman punches the opponent. This buffs all of the Great Saiyaman moves for the rest of the match!\n\nShe also has Two Level 3s. One of them works normally (thank goodness), and the other one you can do by holding down a button on wake up. Like Frieza's wake up super.\n\nIt's also worth noting she's the only character in the whole game that has a real outfit change (not just colors). You can pick between short hair or pigtails Videl."
+      }
+    ],
+    "verdict": "An incredible character held back by the decision to take a core mechanic away from her moveset. The lack of a reflect forever left this character in a weird place."
+  },
+  {
+    "id": 12,
+    "title": "Jiren",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/1wdXuCwjHdI",
+    "ip": "",
+    "image": "images/dbfz_jiren.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "His Heavy attack button is a grab? He can anti air with his ki blast? What's going on here?!\n\nJiren looks like a very weird character at first. But it doesn't take long to find out how basic he can be."
+      },
+      {
+        "type": "heading",
+        "text": "Pride Parry"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jiren's signature are his parries and counter attacks. He has a low parry, a high parry, an EX parry (that covers both for meter), and a projectile parry. It can be very scary to attack a good Jiren. If they can read you, you're cooked.\n\nOther than that, his specials are pretty straightforward. A shoulder charge and a deadly stare (it's what it sounds like... he stares at you very hard)."
+      },
+      {
+        "type": "heading",
+        "text": "Super Trooper"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two Level 1 Supers (a projectile and a punch), and a Level 3 where he... punches really hard? Underwhelming supers honestly.\n\nJiren didn't release with a Dramatic Finish, but got one if he loses against Goku and Frieza."
+      }
+    ],
+    "verdict": "Honestly impressive how much they made with such a straightforward character, but at the end of the day, he feels a bit too simple. I like the parry gimmick though, it can make for some big brain plays."
+  },
+  {
+    "id": 11,
+    "title": "Cooler",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "",
+    "ip": "",
+    "image": "images/dbfz_cooler.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Cooler feels like a character Frankensteined from others. It's like... none of his moves feel particularly new but... seeing them all together, he still feels unique?"
+      },
+      {
+        "type": "heading",
+        "text": "Bigger Brother"
+      },
+      {
+        "type": "paragraph",
+        "text": "A big dive kick, a big DP, a big beam. All things we've seen before, but Cooler's big body is gonna do them in big style.\n\nHe does have a unique special move, that's fullscreen low that picks up opponents off the ground, and a command normal that lunges half screen and is projectile invul! I'd say these are probably his signature moves, but it's hard to nail it to a single special."
+      },
+      {
+        "type": "heading",
+        "text": "Supernova Counter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two Level 1 Supers, both very easy to use, and a Level 3 that can be used normally or as a parry. No safe jumping Cooler if he's got 3 bars of meter.\n\nUnfortunately, along with Android 17, he's the first character that does not bring a new Dramatic Finish to the game."
+      }
+    ],
+    "verdict": "A character with big normals and a bunch of familiar specials mixed together. He feels very good to play, but doesn't add much in terms of variety to the current roster."
+  },
+  {
+    "id": 10,
+    "title": "Android 17",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/YXDyq0LpRcs",
+    "ip": "",
+    "image": "images/dbfz_a17.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The MVP of the Tournament of Power arrives as a bit of a mix between Android 18 and... Yamcha?"
+      },
+      {
+        "type": "heading",
+        "text": "Dance Baby Dance"
+      },
+      {
+        "type": "paragraph",
+        "text": "His biggest special is a rekka with a ton of options (like Yamcha), but this time, instead of having a lot of left/right mix, it's more of high/low, air to ground carries, shield baits and loads of plus frames... yeah it's a Rekka with some insane options.\n\nThe shield is especially strong because it can be followed up with an attack, immediately punishing any buttons, and that can be used as an assist.\n\nHis other special is very forgettable. He can jump to the wall. Woopie."
+      },
+      {
+        "type": "heading",
+        "text": "What's His Super Again?"
+      },
+      {
+        "type": "paragraph",
+        "text": "He has two Level 1 Supers and a Level 3. While both Level 1 are taken from the show, the Level 3 is an original move from Xenoverse 2. I didn't think they would need to go game original with the MVP, but they did...\n\nThis is also the first character (together with Cooler) that didn't bring a Dramatic Finish."
+      }
+    ],
+    "verdict": "Godlike character competitively, but the whole moveset is a rekka and a shield assist, leaving everything else to fall a bit."
+  },
+  {
+    "id": 9,
+    "title": "Vegeta",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/7WobMM702iY",
+    "ip": "",
+    "image": "images/dbfz_vegeta.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "As a Vegeta, he shares a lot of normals with the other two Vegetas in the game. And that would be fine, if he actually had anything else that felt unique about him..."
+      },
+      {
+        "type": "heading",
+        "text": "He's a Saiyan"
+      },
+      {
+        "type": "paragraph",
+        "text": "He's got a super dash kick (like SSJ Vegeta), an Overhead Knee attack (kind of a mix between Tien and Adult Gohan's backfist), and a Destructo Disk (like Kril... actually Krillin's is a super, nevermind)\n\nThe most unique special he brings is a grab that can pickup opponents from the ground. The first OTG move of the game."
+      },
+      {
+        "type": "heading",
+        "text": "Elite Simplicity"
+      },
+      {
+        "type": "paragraph",
+        "text": "Galick Gun as a level 1 and the move that finished Nappa as a level 3. That's it for supers. They're good, the level 3 oki has always been incredible. The character is very strong. Just doesn't feel super unique.\n\nHe has a Dramatic Finish against Goku, but as Vegeta you probably don't wanna see it, as it would mean you lost the fight..."
+      }
+    ],
+    "verdict": "Very strong, very complete character, but did not feel very unique. Honestly, if he didn't have the ki blast loops and level 3 oki, he would feel like a dupe."
+  },
+  {
+    "id": 8,
+    "title": "Goku",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/qEsmrsQIFkg",
+    "ip": "",
+    "image": "images/dbfz_goku.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Another Goku huh... well this one, despite sharing a lot of normals with the other Gokus, actually has some incredibly unique gimmicks. This is the first true anchor of Dragon Ball FighterZ."
+      },
+      {
+        "type": "heading",
+        "text": "Give Me Your Energy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Goku can charge up a spirit bomb projectile up to 3 times before shooting it. It's a very powerful projectile but needs to be charged up first. It's very unique in this game.\n\nThe other specials aren't so unique. A shoulder charge and a command grab. Nice to have, but we've seen stuff like this before."
+      },
+      {
+        "type": "heading",
+        "text": "Kaioken Times... Math!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's where it gets interesting. His Level 1 Super evolves as your team dies. Kaioken starts as a rekka with 3 follow ups, evolving into 5 and then 9, with the option of finishing it all with a Kamehameha for an extra bar of meter. Goku's Super gets stronger the less characters are on your team.\n\nOn top of that, his Level 3 is a Super Spirit Bomb that deals incredible damage. It falls slower, so it won't connect in a lot of regular combos, but that's why he's great as an anchor. Set it up with another character, follow up with a Spirit Bomb... it's TOD town!\n\nTo add to peak, he has TWO Dramatic Finishes: Goku vs Vegeta and Goku vs Frieza. He wins both of them of course."
+      }
+    ],
+    "verdict": "Honestly, the only downside is it being another Goku in a game full of Gokus. Otherwise he actually brings a lot of new stuff to the game, and stands out as a very unique character."
+  },
+  {
+    "id": 7,
+    "title": "Zamasu (Fused)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/Na1wrRZKiTk",
+    "ip": "",
+    "image": "images/dbfz_zamasu.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The almighty Zamasu arrives in FighterZ with godly damage and divine setups. A unique character for sure, but one that revolves a bit too much around one gimmick."
+      },
+      {
+        "type": "heading",
+        "text": "Flight of the Gods"
+      },
+      {
+        "type": "paragraph",
+        "text": "8 direction free form flight. That's Zamasu's signature! He can activate flight and hover at will around the stage. He has other specials, that he can perform on the ground or while flying, but they're a lot more boring.\n\nWell, maybe I'm being too harsh. He does have these orbs of lightning that automatically shoot after a delay that are also very unique, and can be cool for covering gaps in blockstrings or extending combos."
+      },
+      {
+        "type": "heading",
+        "text": "Divine Supers"
+      },
+      {
+        "type": "paragraph",
+        "text": "He's got two Level 1 Supers. One of them is a simple orb. The other can be used for setups or with certain knockdowns to extend combos. It's very similar to Piccolo's Hellzone Grenade.\n\nHe's also got a gorgeous Level 3 Super.\n\nZamasu has two Dramatic Finishes (against Vegito and Trunks), but he loses both of them. So if you're playing Zamasu and see these, it's probably bad news."
+      }
+    ],
+    "verdict": "A very cool character for sure, but outside of flight nothing feels super unique."
+  },
+  {
+    "id": 6,
+    "title": "Vegito (SSGSS)",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/Na1wrRZKiTk",
+    "ip": "",
+    "image": "images/dbfz_vegitoblue.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 19, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This character is weird. His normals are very unique, so they won't feel very familiar. But sometimes that's a good thing. It's what makes characters unique."
+      },
+      {
+        "type": "heading",
+        "text": "Swiss Army Earrings"
+      },
+      {
+        "type": "paragraph",
+        "text": "His special moves have a little bit of everything. Projectiles, a parry, some melee kicks and a grab. The fusion always felt like a very complete character, even if they're missing high/low mixup, the amount of tools and neutral skips they have kept them menacing throughout the game's lifespan."
+      },
+      {
+        "type": "heading",
+        "text": "Final Kamehameha"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two level 1 supers and a level 3 that can be extended with a fourth bar of meter, give you many options on how to finish combos from every situation. The animation on Final Kamehameha is one of the best the game has seen so far (and that's saying something), and the Dramatic Finish he has against Zamasu is one of the funniest in the game."
+      }
+    ],
+    "verdict": "If you're willing to learn this character, he'll reward you for the time you put into him. If you're looking to auto-pilot with your current muscle memory though, maybe skip this one."
+  },
+  {
+    "id": 5,
+    "title": "Broly",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/ZIo75n69bqw",
+    "ip": "",
+    "image": "images/dbfz_broly.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 10,
+    "date": "May 19, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This is what happens when you can go absolutely crazy! A unique playstyle that fits a monster of a character."
+      },
+      {
+        "type": "heading",
+        "text": "Armored Express"
+      },
+      {
+        "type": "paragraph",
+        "text": "Broly is an armored monster. He's got an armored lariat, two armored command grabs, an armored projectile, and can even setup an anti-projectile shield.\n\nHe's not just scary because he's big, but his armor makes him scarry to challenge against, but also block against thanks to "
+      },
+      {
+        "type": "heading",
+        "text": "Green Explosions Everywhere"
+      },
+      {
+        "type": "paragraph",
+        "text": "Broly has two level 3 supers! They kinda look the same, but functionally they're very different, as one of them throws a very slow moving orb that can be used for pressure or for solo combo extensions in certain situations. With enough meter, this character is a killing machine.\n\nPlus, he also brings two cinematic Dramatic Finishes, against Adult Gohan and Goku! He does lose both of them unfortunately..."
+      }
+    ],
+    "verdict": "Nailing a character's personality and fighting style this well, while at the same time adding something so unique to a fighting game is a rare thing indeed. Perfect DLC."
+  },
+  {
+    "id": 3,
+    "title": "Bardock",
+    "type": "dlc",
+    "parentGame": "Dragon Ball FighterZ",
+    "youtubeUrl": "https://youtu.be/e_NtEDrfeJ4",
+    "ip": "",
+    "image": "images/dbfz_bardock.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 19, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A beginner friendly character whose biggest problem is playing a little too similar to all the other saiyans."
+      },
+      {
+        "type": "heading",
+        "text": "A lariat to remember"
+      },
+      {
+        "type": "paragraph",
+        "text": "The lariat quickly became Bardock's signature move in FighterZ, you could say that's the move that defines the character in this game. A quick attack that moves him across the stage, quickly starting his rushdown pressure.\n\nHis other specials are an overhead rolling crush, good for guaranteeing knockdowns on every combo, and Tyrant Lancer, a punch with a big startup that gives you plus frames on block."
+      },
+      {
+        "type": "heading",
+        "text": "Cinematic Pride"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bardock comes with 2 level one supers that can be linked into each other (essentially giving him a level 2), and a beautifully animated level 3. But that's not all!\n\nHe also comes with 2 Dramatic Finishes against Frieza. One for his victory and another one for his loss. This is the only place where you can see Bardock go Super Saiyan unfortunately. That transformation is not available to him during gameplay."
+      }
+    ],
+    "verdict": "A very safe start to Season 1 DLC. The character suffers a little from being too straightforward, but makes it up with 2 Dramatic Finishes and a very fun lariat."
+  },
+  {
+    "id": 2,
+    "title": "Dragon Ball FighterZ",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "dragon ball",
+    "image": "images/dbfz.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "May 19, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "I love Fighting Games. I love Dragon Ball.\n\nFighterZ is the best thing that could've happened to someone like me. A refreshing take on tag fighters that became many people's first fighting game, and ended up influencing the whole genre."
+      },
+      {
+        "type": "heading",
+        "text": "A Welcoming Tag Fighter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tag fighters are hard and scary. I have to learn 3 whole characters before I even hit play? That sounds like work!\nDragon Ball FighterZ made the genre accessible with features that ended up influencing every fighting game that came afterwards:\n- Auto Combos: mashing a button would have the character perform a simple combo, so you could just jump in and play;\n- Super Dash: one button and you fly straight at your opponent. Easy to punish if you're ready for it though;\n- All quarter circles: not quite the easy inputs we've seen a few games try out, but all specials and supers are done with the simplest of fighting game motions.\n\nPaired with its incredible visual fidelity, Dragon Ball FighterZ is a game where cool stuff happens all the time regardless of your skill level. Ultimately, these things made it so even casual Dragon Ball fans would feel compelled to learn and improve at a fighting game for the first time in their lives."
+      },
+      {
+        "type": "heading",
+        "text": "Online Warriors"
+      },
+      {
+        "type": "paragraph",
+        "text": "Despite the game launching with delay-based netcode, an update years later added rollback, which transformed the online experience.\n\nWe still don't have crossplay (and most likely never will), but the online netcode and game modes (Lobbies, Ranked and Casual Matches) have kept the game alive and well so far.\n\nThere are also occasional cooperative events where 3 players can tackle a series of powerful enemies. Unfortunately this game mode is still tied to delay-based netcode, and has been plagued with various issues since launch. Don't get me wrong, it's a super cool mode, just hard to enjoy sometimes"
+      },
+      {
+        "type": "heading",
+        "text": "Hyperbolic Single Player"
+      },
+      {
+        "type": "paragraph",
+        "text": "This game's single player offering is honestly underrated.\n\nWhile its combo trials are underwhelming, thanks to how difficult the CPU can get, both the Arcade and Story Modes can actually be satisfying to clear.\n\nStory is actually filled with a ton of unique cinematic interactions between characters that never met in the show, while telling an original story centred on the game's original character: Android 21. The narrative isn't bad as far as filler stories go in Dragon Ball, though it can be confusing since it's told from 3 different perspectives, and main events don't always line up.\n\nThe reason this offering gets overlooked is that the hard difficulties only unlock after you beat the game on \"Normal\", which is incredibly boring. The CPU just isn't challenging enough, so the task feels incredibly repetitive, and most players end up dropping it before getting to the good stuff."
+      }
+    ],
+    "verdict": "Despite its polarizing single player offering, Dragon Ball FighterZ is the tag fighter that defined an entire genre, and my favorite Dragon Ball game of all time."
+  },
+  {
     "id": 1,
     "title": "Naruto: Rise of a Ninja",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "https://youtu.be/7QsbzNljCXo",
     "ip": "naruto",
     "image": "images/narutoroan.jpg",
     "platform": "Reviewed on Xbox 360",

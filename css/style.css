@@ -425,6 +425,13 @@ nav {
   flex-shrink: 0;
 }
 
+.bushi-score-small {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
 .bushi-score-large {
   width: 96px;
   height: 96px;
@@ -765,7 +772,19 @@ footer {
   font-size: 1.05rem;
   line-height: 1.85;
   color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.review-body ul, .review-body ol {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  line-height: 1.85;
+  padding-left: 1.5rem;
   margin-bottom: 1.5rem;
+}
+
+.review-body li {
+  margin-bottom: 0.4rem;
 }
 
 .review-body h2 {
@@ -829,3 +848,196 @@ footer {
   footer { flex-direction: column; gap: 1rem; text-align: center; }
   .yt-link-block { flex-direction: column; align-items: flex-start; }
 }
+
+/* ─── DLC CARDS ─── */
+.card-dlc-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.3rem;
+}
+
+.card-dlc-badge {
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--border-accent);
+  padding: 0.1rem 0.35rem;
+  line-height: 1.4;
+}
+
+.review-card--dlc {
+  border-left: 2px solid var(--border-accent);
+}
+
+/* ─── REVIEW DETAIL HEADER ─── */
+/* ─── YOUTUBE REVIEW LINK ─── */
+.review-detail-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.25rem;
+}
+
+.review-detail-meta-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.yt-review-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.yt-review-link:hover { color: var(--text); }
+
+.yt-review-link svg {
+  width: 22px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* ─── DLC LABEL IN REVIEW DETAIL ─── */
+.review-detail-dlc-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  margin-bottom: 0.5rem;
+}
+
+.review-detail-inner .dlc-accordion {
+  display: inline-block;
+  border: 1px solid var(--border-accent);
+  margin: 0.75rem 0 0;
+  position: relative;
+}
+
+.review-detail-inner .dlc-accordion-toggle {
+  background: transparent;
+  padding: 0.45rem 1rem;
+  font-size: 0.72rem;
+  color: var(--accent);
+}
+
+.review-detail-inner .dlc-accordion-toggle:hover { background: var(--accent-glow); }
+
+.review-detail-inner .dlc-accordion-body {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  min-width: 320px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-accent);
+  border-top: none;
+  z-index: 50;
+}
+.dlc-accordion {
+  border: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+.dlc-accordion-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-secondary);
+  border: none;
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s;
+}
+
+.dlc-accordion-toggle:hover { background: var(--bg-card-hover); }
+
+.dlc-accordion-icon {
+  color: var(--accent);
+  transition: transform 0.2s;
+  display: inline-block;
+}
+
+.dlc-accordion.open .dlc-accordion-icon { transform: rotate(90deg); }
+
+.dlc-accordion-count {
+  margin-left: auto;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+}
+
+.dlc-accordion-body {
+  display: none;
+  border-top: 1px solid var(--border);
+}
+
+.dlc-accordion.open .dlc-accordion-body { display: block; }
+
+.dlc-accordion-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.15s;
+  gap: 1rem;
+}
+
+.dlc-accordion-item:last-child { border-bottom: none; }
+.dlc-accordion-item:hover { background: var(--bg-card-hover); }
+
+.dlc-accordion-title {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.dlc-accordion-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+
+.dlc-accordion-date {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.dlc-accordion-body::-webkit-scrollbar { width: 4px; }
+.dlc-accordion-body::-webkit-scrollbar-track { background: transparent; }
+.dlc-accordion-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+.dlc-accordion-body::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
