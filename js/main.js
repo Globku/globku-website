@@ -8,7 +8,7 @@ function loadReviews() {
       // Update dynamic review count stat
       const countEl = document.getElementById('review-count-stat');
       if (countEl) {
-        const rounded = Math.floor(reviews.filter(r => r.type !== 'dlc').length / 10) * 10;
+        const rounded = Math.floor(reviews.length / 10) * 10;
         countEl.textContent = rounded + '+';
       }
       initHome();
@@ -25,6 +25,10 @@ function bushiImg(score, size = '') {
   return `<img src="images/bushi/bushi-${score}.png" alt="Score: ${score}/10" class="bushi-score${size ? '-' + size : ''}" onerror="this.style.display='none'">`;
 }
 
+function getDlcCount(review) {
+  return reviews.filter(r => r.type === 'dlc' && r.parentGame && r.parentGame.toLowerCase() === review.title.toLowerCase()).length;
+}
+
 function renderCard(review, clickable = true) {
   const img = review.image
     ? `<img src="${review.image}" alt="${review.title}" class="card-img">`
@@ -33,6 +37,11 @@ function renderCard(review, clickable = true) {
   const isDlc = review.type === 'dlc';
   const dlcLabel = isDlc && review.parentGame
     ? `<div class="card-dlc-label"><span class="card-dlc-badge">DLC</span> ${review.parentGame}</div>`
+    : '';
+
+  const dlcCount = !isDlc ? getDlcCount(review) : 0;
+  const dlcCountBadge = dlcCount > 0
+    ? `<div class="card-dlc-count"><span class="dlc-accordion-icon">▸</span> ${dlcCount} DLC Reviews</div>`
     : '';
 
   return `
@@ -44,6 +53,7 @@ function renderCard(review, clickable = true) {
         <div class="card-info-row">
           <div class="card-info-left">
             <span class="card-platform">${review.platform}</span>
+            ${dlcCountBadge}
           </div>
           <div class="card-bushi">${bushiImg(review.score)}</div>
           <div class="card-date-right">
