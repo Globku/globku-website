@@ -41,7 +41,7 @@ function renderCard(review, clickable = true) {
 
   const dlcCount = !isDlc ? getDlcCount(review) : 0;
   const dlcCountBadge = dlcCount > 0
-    ? `<div class="card-dlc-count"><span class="dlc-accordion-icon">▸</span> ${dlcCount} DLC Reviews</div>`
+    ? `<div class="card-dlc-count"><span class="dlc-accordion-icon">▸</span> ${dlcCount} DLC ${dlcCount === 1 ? 'Review' : 'Reviews'}</div>`
     : '';
 
   return `
@@ -106,7 +106,7 @@ function openReview(id) {
     ? `<div class="dlc-accordion">
         <button class="dlc-accordion-toggle" onclick="this.closest('.dlc-accordion').classList.toggle('open')">
           <span class="dlc-accordion-icon">▸</span>
-          DLC Reviews <span class="dlc-accordion-count">${dlcChildren.length}</span>
+          DLC ${dlcChildren.length === 1 ? 'Review' : 'Reviews'} <span class="dlc-accordion-count">${dlcChildren.length}</span>
         </button>
         <div class="dlc-accordion-body" style="max-height:${5 * 48}px; overflow-y:auto;">
           ${dlcChildren.map(d => `
