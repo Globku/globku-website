@@ -1,5 +1,93 @@
 [
   {
+    "id": 26,
+    "title": "Reunion of Memories",
+    "type": "dlc",
+    "parentGame": "One Piece Odyssey",
+    "youtubeUrl": "",
+    "ip": "",
+    "image": "images/onepieceodysseydlc.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "May 26, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Before the Straw Hats depart from Waford into their next adventure, one final party by the campfire is cut short. Lim is kidnapped and the crew is trapped in the world of memories. But things are very different this time around..."
+      },
+      {
+        "type": "heading",
+        "text": "An Ancient Plot Hole"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yes, you will have to revisit Alabasta, Water Seven and Dressrosa (they skipped Marineford for some reason). This time, a Dark Lim is handing out Black Cubes that increase the power of several villains. The result? Alabasta is now ruled by Crocodile, Lucci kidnapped Mr. Iceberg, and so on.\n\nThis DLC's story dives into Lim's past, Waford's history and their relationship with the Ancient Weapon, uncovering its true nature (turns out, its power is not about controlling the weather). This expansion answered many questions I had, but the way it ties up some loose ends felt a little too convenient. If you don't think too much about it, I'm sure it's fine. But as soon as you start asking questions, a lot of it falls apart. It's a cool story, but it pokes some holes in its own plot."
+      },
+      {
+        "type": "heading",
+        "text": "Finally, A Worthy Challenge"
+      },
+      {
+        "type": "paragraph",
+        "text": "At launch, the lack of difficulty was one of the main criticisms. The developers heard that, and so combat isn't just more challenging, it's been meaningfully expanded.\n\nAlmost every encounter has special conditions now: protect the royal guard, defeat the marines in one turn, defeat the captain without attacking their subordinates, etc.\n\nThis was the first time I actually felt challenged in One Piece Odyssey, and with the addition of these conditions, encounters also feel more dynamic.\n\nOn top of that, you're not just fighting against old bosses (like Crocodile and Rob Lucci). They made a few new boss fights as well, while giving One Piece fans some good fan service. After all, it's the world of memory... every One Piece character is fair game."
+      },
+      {
+        "type": "heading",
+        "text": "Choose your path"
+      },
+      {
+        "type": "paragraph",
+        "text": "The DLC also introduces branching paths. At certain points, you can choose which path you want to take. These have no effect on the ending, they're two ways of arriving at the same destination, but the journey can change significantly.\n\nThis DLC actually has two endings, but triggering them mostly has to do with collectibles, not the choices you make. The two endings, however, don't do much to justify a second playthrough, as they only slightly change a cutscene close to the end of the story, leaving the ending's meaning completely intact."
+      }
+    ],
+    "verdict": "The DLC finally unleashes the full potential of Odyssey's combat system, delivering a challenge that's actually fun to overcome. No matter how many plot holes it pokes in its own story."
+  },
+  {
+    "id": 25,
+    "title": "One Piece Odyssey",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "one piece",
+    "image": "images/onepieceodyssey.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "May 26,2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "One Piece goes turn-based RPG with Odyssey, a game with an original setting that's actually incredible if you're a One Piece fan, with a solid idea for a combat system. But in typical anime game fashion, comes with a few caveats that are hard to ignore."
+      },
+      {
+        "type": "heading",
+        "text": "Not Just Another Island"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Straw Hats shipwreck on the island of Waford, a game original land with incredible lore, inhabited only by Lim and Adio (two game original characters) and a few non-human creatures. Discovering this island's past and the story with Lim and Adio quickly becomes the game's main attraction, as this island houses an Ancient Weapon that triggers massive storms. It's a deep dive into many themes that are One Piece fan-favourites: Sky Islands, ancient tribes and Ancient Weapons.\n\nSoon upon arrival, the Straw Hats lose their powers. So as they're getting to know Lim and Adio, they are also diving into their past adventures in the World of Memories, reliving the stories of Alabasta, Water Seven, Marineford and Dressrosa. These aren't one-to-one with how they happened in the show, though. Memories can be fuzzy, and events may change. But what's impressive here is how fully realized each one of these areas is. The capital of Alubarna, complete with the Palace and Mausoleum. Water Seven's gorgeous canals. A small town in Marineford shaken by the great Paramount War. And the scale of the Doflamingo destruction on Dressrosa. All of these really impressed me as a One Piece fan. Never have I seen these places in such detail, and it was incredible to discover them. If only I could've done it at my own pace...\n"
+      },
+      {
+        "type": "heading",
+        "text": "One Pace... Please Help!"
+      },
+      {
+        "type": "paragraph",
+        "text": "True to One Piece, this is a game with a lot of pacing issues, that range from storytelling to quest design and gameplay mechanics.\n\nSmall, outdated gameplay hiccups start piling up. Switching characters requires a full fade to black. Clearing a common obstacle will lock you out of player control to play a small animation every time. Moving from one area to another can take multiple loading screens.\n\nBut it's not just the small things, the four areas are incredibly unbalanced in terms of playtime, with Alabasta being the biggest problem. Most of this arc is played before unlocking Fast Travel, with quest design that requires you to not only cross a huge desert on foot, but to constantly backtrack as well, across multiple quests. The story also moves very slowly at the start, which ends up feeling like unnecessary padding. Ultimately it makes the start of the game feel like a total drag."
+      },
+      {
+        "type": "heading",
+        "text": "No Trust In Your Nakama"
+      },
+      {
+        "type": "paragraph",
+        "text": "Odyssey's combat feels original at first. It has some familiar turn-based tropes, like character types and elemental weaknesses, but stands out for placing characters in different zones. Characters can't move away from these zones until all the enemies in their zone are defeated, which will force you to strategize how best to place the Straw Hats in each encounter. Every crew member has their own type and elemental attacks, but also specialize in either single target attacks, area attacks, close range or long range (as in, attacks to a different area than the one they're standing in).\n\nIt's a really cool idea, but also feels like it didn't fully develop, as it quickly falls into the background after that initial surprise. Once you figure out that you can swap crewmembers' positions, as many times as you want, without spending a turn, it feels like you broke the whole game by using a basic mechanic. But even without exploiting this, the game never challenges you enough to fully explore this battle system. It's another anime game that doesn't trust its playerbase to have any brainpower, and doesn't offer any difficulty options. It's not until you're done with the story and choose to tackle the post-game content that it offers any meaningful challenge.\n\nIn the end, the combat system runs out of steam, and what kept gameplay fun was seeing all the attack animations they did for the whole crew, as well as the incredible enemy designs, all with their own attack animations."
+      }
+    ],
+    "verdict": "An incredible setting that will delight every One Piece fan, with some cool ideas for turn-based combat, undermined by its low difficulty and pacing issues."
+  },
+  {
     "id": 24,
     "title": "Goku (SSJ4 Daima)",
     "type": "dlc",
@@ -80,32 +168,32 @@
     "ip": "",
     "image": "images/dbfz_gogetassj4.jpg",
     "platform": "Reviewed on PS5",
-    "score": 8,
+    "score": 9,
     "date": "May 22, 2026",
     "featured": false,
     "content": [
       {
         "type": "paragraph",
-        "text": ""
+        "text": "Gogeta (SSJ4) was believed to be the final character of FighterZ for a long time. So they didn't hold back. The character lacks big projectiles, but has the unique trait of having 2 air dashes for every jump, a level up gimmick and even an insta-kill.\n\nBesides, they made a Super Saiyan 4 Vegeta model just to see him fuse during his intro. Now that's dedication."
       },
       {
         "type": "heading",
-        "text": ""
+        "text": "Party-hameha"
       },
       {
         "type": "paragraph",
-        "text": ""
+        "text": "Gogeta has a fake kamehameha that shoots party confetti, and it's the funniest command grab in the whole game. He also has a frame 4 counter attack and a DP that gives him a Dragon Ball every time he uses it.\n\nFor more mixup, his command normals give him high and low options. To get in closer to the opponent, he has a projectile invulnerable lariat, and a spinning kick to knock them down."
       },
       {
         "type": "heading",
-        "text": ""
+        "text": "\"I Only Need One Finger\""
       },
       {
         "type": "paragraph",
-        "text": ""
+        "text": "He also has a taunt that will level him up every time he uses it. Every level will buff his Level 1 and his Level 3 Supers\n\nAt level 7 however, he gains an insta-kill. His Big Bang Kamehameha will delete a character, no matter how much health they have left.\n\nHe also has a Dramatic Finish with Gogeta Blue where he can win or lose (they animated both outcomes)."
       }
     ],
-    "verdict": ""
+    "verdict": "With how little screen time the character has, but with how iconic it is among fans, they did a fantastic job."
   },
   {
     "id": 21,
