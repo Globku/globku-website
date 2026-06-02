@@ -1,5 +1,105 @@
 [
   {
+    "id": 29,
+    "title": "Endeavor",
+    "type": "dlc",
+    "parentGame": "My Hero: One's Justice",
+    "youtubeUrl": "",
+    "ip": "",
+    "image": "images/mhojendeavor.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "June 2, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 28,
+    "title": "Inasa",
+    "type": "dlc",
+    "parentGame": "My Hero: One's Justice",
+    "youtubeUrl": "",
+    "ip": "",
+    "image": "images/mhojinasa.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "June 2, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "verdict": ""
+  },
+  {
+    "id": 27,
+    "title": "My Hero: One's Justice",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "my hero academia",
+    "image": "images/mhoj.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "June 2, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The first My Hero Academia console game: My Hero One's Justice. An Arena Fighter that tries to stand out with a more technical approach and deep character movesets, but ends up with poor game feel and a lack of basic features."
+      },
+      {
+        "type": "heading",
+        "text": "Plus Ultra, Minus Feel"
+      },
+      {
+        "type": "paragraph",
+        "text": "It's a 1v1 Arena Fighter, where each player can pick 2 assist characters backing you up. The game features 21 playable characters, all with unique movesets that include basic attacks and quirk abilities. Each quirk is a faithful interpretation of the character's powers from the show, resulting in a fighting game with different archetypes for each character in the roster.\n\nVariety suffers the most with the assist system. Since they can be summoned while getting hit to act as combo breaks, your choices narrow significantly in competitive play, though casual matches still reward experimenting with the full roster.\n\nThat said, the whole game feels very floaty for a few reasons. Battles can transition from the ground to the walls, in a way that makes no sense in the show the game is adapting, and completely defies physics. The game is also heavy on recovery in most of its actions, even regular dashes have recovery, so characters feel heavy and not as snappy as you'd want. There are also some extremely long knockdowns at the end of every combo, which kill momentum and compound the sluggishness.\n\nOn one hand, I'd love to see more Arena Fighters commit to this level of moveset depth. More quality movesets over quantity of characters. But on the other hand, game feel should still be a priority, and that was neglected here."
+      },
+      {
+        "type": "heading",
+        "text": "Solo Hero"
+      },
+      {
+        "type": "paragraph",
+        "text": "There are 3 single player modes: Story, Mission and Arcade.\n\nArcade is as straightforward as it gets. Pick a character, fight against 6 opponents, unlock a reward.\n\nStory Mode is disappointingly thin. It covers the My Hero story from the Sports Festival to the battle between All Might and All For One. All of it is retold in slideshows, and the gameplay is simple CPU battles.\n\nFortunately, mission mode is solid. It's like an Arcade Mode, but each mission has special conditions, and your characters level up the more you use them. It's a faux RPG game mode that's really challenging and has some replayability, as you get to choose different paths to the final boss of each mission, and every path has different rewards.\n\nCustomization runs through all three modes as the shared progression system, as most of the rewards are customization options for your characters, and carry into offline or online matches."
+      },
+      {
+        "type": "heading",
+        "text": "Online Villains"
+      },
+      {
+        "type": "paragraph",
+        "text": "This game has the best delay-based netcode I have ever experienced. The quality of games against opponents from the other side of the globe is really good, it feels like witchcraft. Since this is a game from 2018 with 2 sequels now, finding a match is near impossible at this point, but if you have friends to play with, distance won't be a problem with how good the netcode is.\n\nHowever, online is missing a lot of basic features that are standard in most multiplayer games:\n- Lobbies only hold 2 players at a time (no group lobbies)\n- No rage quit penalties\n- No loss of points in Ranked Matches\n\nThis means that winning or losing always ranks you up, making this less of a Ranked Match and more of a \"Grind Match\"."
+      }
+    ],
+    "verdict": "Despite committing to more character variety and moveset depth, One's Justice comes out with poor gameplay feel and lack of basic features. However, if this is the start of a new series, I would love to see them build on this foundation."
+  },
+  {
     "id": 26,
     "title": "Reunion of Memories",
     "type": "dlc",
@@ -48,7 +148,7 @@
     "title": "One Piece Odyssey",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/gZJ3I-HXE18",
     "ip": "one piece",
     "image": "images/onepieceodyssey.jpg",
     "platform": "Reviewed on PS5",
@@ -169,7 +269,7 @@
     "image": "images/dbfz_gogetassj4.jpg",
     "platform": "Reviewed on PS5",
     "score": 9,
-    "date": "May 22, 2026",
+    "date": "May 26, 2026",
     "featured": false,
     "content": [
       {
@@ -848,7 +948,7 @@
     "title": "Dragon Ball FighterZ",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/eRWY1f3ZAxk",
     "ip": "dragon ball",
     "image": "images/dbfz.jpg",
     "platform": "Reviewed on PS5",
@@ -898,7 +998,7 @@
     "platform": "Reviewed on Xbox 360",
     "score": 7,
     "date": "May 12, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
