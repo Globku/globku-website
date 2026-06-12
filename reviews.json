@@ -1,5 +1,49 @@
 [
   {
+    "id": 30,
+    "title": "Naruto: The Broken Bond",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "naruto",
+    "image": "images/narutobrokenbond.jpg",
+    "platform": "Reviewed on Xbox 360",
+    "score": 7,
+    "date": "June 12, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The successor to one of the greatest Naruto games of all time, Rise of a Ninja, arrives with an increased roster and multiple playable characters in story mode, but ends up padding the experience with filler quests, leaving a stain on what could've been the perfect sequel."
+      },
+      {
+        "type": "heading",
+        "text": "Filler Clone Jutsu"
+      },
+      {
+        "type": "paragraph",
+        "text": "This time, the story isn't just played through the eyes of Naruto, you can play with a variety of characters such as Shikamaru, Sasuke and more. Each one of these has their own exploration abilities that allow you to clear obstacles or reach places no one else can.\n\nBut more isn't better in this case. Many of these abilities are used to collect coins, or to solve basic \"pull this lever\" puzzles, which increases the padding in this game. The filler is everywhere, so even though the idea of playing with multiple characters is great, the execution buries it. Besides, little to nothing was done to correct the terrible movement feel, which remains the same from Rise of a Ninja."
+      },
+      {
+        "type": "heading",
+        "text": "Living the Genjutsu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Filler aside, this game still does canon story moments like no other games do. It opens really strong with the Third Hokage's passing, as you get to see a destroyed Konoha in mourning. Later, you live through Sasuke's experience while he's trapped in his brother's Tsukuyomi, or struggle to complete mini games as Naruto learns the Rasengan. In another game, these moments would be a cutscene, but The Broken Bond has no qualms about giving you control and immersing you in this experience.\n\nThe game no longer uses the original anime cutscenes. Every cinematic is now in engine, but it still has the original show's soundtrack, and the CG work is really good, so the loss barely registers.\n\nPush past the filler and the story mode is still some of the best the Naruto games have ever offered."
+      },
+      {
+        "type": "heading",
+        "text": "Broken Combos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether it's fighting through story mode or online against other humans, the basics of combat are the same, but it feels more punishing. It's still a 3D fighting game, where every character has some combos for you to learn, and between two to three jutsu you can use to damage the opponent or buff yourself.\n\nThe roster is bigger, which means more variety in movesets, but the main changes from Rise of a Ninja are: substitutions can't be mashed so easily, and combos have huge gaps.\n\nSubstitutions are combo breaker mechanics, and they're still very cheap to use, meaning the game is still very much a substitution festival, only the skill requirement for you to do so is much greater since you can't mash it. But the change to combo routes is by far the most frustrating. The big gaps in many of the routes allow opponents to sidestep and punish you, even while getting hit. I understand the value of having some frametraps here and there, but when most of your combos aren't real, it makes you question what the developers were going for.\n\nJust like Rise of a Ninja, it feels designed for single player first and multiplayer second. Still fun to play with friends, as long as no one gets too good at it."
+      }
+    ],
+    "verdict": "A sequel that does more than Rise of a Ninja without doing it better. The filler and the combat changes make the once tight experience something you need to push through to see the moments worth reaching."
+  },
+  {
     "id": 29,
     "title": "Endeavor",
     "type": "dlc",
@@ -60,7 +104,7 @@
     "title": "My Hero: One's Justice",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/LqYaR04FGl4",
     "ip": "my hero academia",
     "image": "images/mhoj.jpg",
     "platform": "Reviewed on PS5",
