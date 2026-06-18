@@ -1,16 +1,60 @@
 [
   {
+    "id": 31,
+    "title": "Sand Land",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "sand land",
+    "image": "images/sandland.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "Jun 18, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This open-world RPG is a flawless expansion of the Sand Land universe, which will delight fans of the franchise. However, it may have relied a little too much on its source, and left the gameplay lacking."
+      },
+      {
+        "type": "heading",
+        "text": "A Land Worth Expanding"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sand Land is a short manga series and anime, so the game is perfectly positioned to expand that universe, and that's what it does best. Visiting some of the show's locations in-game gave me a whole new perspective on their scale and importance through exploration and side quests. And just like the anime, it goes beyond Sand Land into Forest Land as well, meaning the game features two big areas to explore.\n\nThat said, both of these areas are populated by a lot of copy-pasted assets. The more I explored, the more I recognized a lot of rooms and puzzles in side activities, like ruins, grottos or mountains. They're not just the same type of location, they are literally the same."
+      },
+      {
+        "type": "heading",
+        "text": "A Desert of Innovation"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game has a lot of gameplay systems: melee combat, vehicular combat, races and stealth. Together they offer good variety, but each one is as simple as it gets. Combat is the familiar light and strong attack system, with a dodge roll and occasional special attacks. Races are basic time trials. Despite having other racers on the track, their position doesn't matter. And stealth is just the usual crouching to avoid making noise, with a basic takedown button. No distractions, no bodies found, no AI manipulation. Even getting found means simply respawning somewhere else and trying again.\n\nThe biggest problem is that nothing evolves as much as you would expect. Even though it's an RPG, with levels and talents to unlock, gameplay during the first hour is not distinct enough from hour 40. The numbers are bigger, and you'll have more special attacks, but you'll still be using the same strategies, and often still pressing the same buttons. So for as many systems as the game has, over time it becomes boring."
+      },
+      {
+        "type": "heading",
+        "text": "Tanks for Playing"
+      },
+      {
+        "type": "paragraph",
+        "text": "That said, most of your time with the game is spent in a vehicle, and that's easily the best part of the entire package. The game offers a good number of vehicle types, all of which can be customized with different weapons and visuals, and gameplay is very different depending on the vehicle you're riding. There are hovercrafts, tanks, motorcycles and even a mech-suit. Individually, their gameplay is still very simplistic, but since you can quickly swap vehicles mid-fight, it keeps the game fun.\n\nNot that it's challenging. Enemies can't lead their shots, so driving sideways and shooting will always work regardless of who you're up against and what you set the difficulty to. It's the gameplay's saving grace."
+      }
+    ],
+    "verdict": "With all of its gameplay systems, Sand Land feels like a jack of all trades, but master of none. It relies too much on the show it's based on, failing to stand on its own two legs."
+  },
+  {
     "id": 30,
     "title": "Naruto: The Broken Bond",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/TppAjRvcAsQ",
     "ip": "naruto",
     "image": "images/narutobrokenbond.jpg",
     "platform": "Reviewed on Xbox 360",
     "score": 7,
     "date": "June 12, 2026",
-    "featured": false,
+    "featured": true,
     "content": [
       {
         "type": "paragraph",
@@ -198,7 +242,7 @@
     "platform": "Reviewed on PS5",
     "score": 7,
     "date": "May 26,2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
@@ -998,7 +1042,7 @@
     "platform": "Reviewed on PS5",
     "score": 9,
     "date": "May 19, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
