@@ -1,10 +1,54 @@
 [
   {
+    "id": 32,
+    "title": "Captain Tsubasa: Rise of New Champions",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "captain tsubasa",
+    "image": "images/captaintsubasaronc.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "June 23, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A beautiful blend between football (I'm not calling it soccer) and anime. Captain Tsubasa offers a wonderful single-player experience for new and returning fans alike. Just don't touch the online mode."
+      },
+      {
+        "type": "heading",
+        "text": "A Balanced Kick-Off"
+      },
+      {
+        "type": "paragraph",
+        "text": "I love how this game balances traditional football with over-the-top anime action. While the basics of simulation football translate well into the core mechanics, the game adds a massive layer of anime flair on top. Dribbles and tackles act as prediction duels: pick the right move, and you win the exchange. Chain those wins with the same player to build a stat boost, which helps charge the cinematic anime shots Captain Tsubasa is known for. There are also special abilities for passing, tackling, and goalkeeping, all supported by individual RPG stats like Offense, Defense, and Technique. So, on top of playing skillfully, team composition is just as important."
+      },
+      {
+        "type": "heading",
+        "text": "Content Hattrick"
+      },
+      {
+        "type": "paragraph",
+        "text": "Not only are the base systems fun, but the single-player content is incredible. It all starts with Episode: Tsubasa, where you relive the anime's classic story line. It is the perfect onboarding tool for new fans to learn about the characters and events while mastering the game's basics.\n\nFrom there, you jump into Episode: New Hero. Here, you create a custom player, choose a school to enroll in, and play through an original story that takes you all the way to the Junior Youth World Challenge. Each school features a unique narrative and distinct characters your hero can learn skills from. While these paths converge once you reach the international stage, the game still offers multiple endings depending on which teammates you choose to befriend and train with.\n\nThis mode doubles as the game's character creator. Over a series of roughly fifteen story matches, performing well rewards you with bigger stat bonuses. Once finished, your custom character can be slotted into any offline or custom team of your choosing.\n\nFinally, the package is rounded out by standard local versus and tournament modes, alongside a post-launch \"Freestyle Match\" party mode where you play the base game while picking up wacky power-ups on the pitch."
+      },
+      {
+        "type": "heading",
+        "text": "The Red Card"
+      },
+      {
+        "type": "paragraph",
+        "text": "Online versus is where it all goes down the drain. A horrendous netcode that sees players teleporting across the pitch, lobbies that only hold two players, and a variety of bugs and exploits that the developers were too late to fix made the online scene a complete wasteland. The experience was so bad at launch that the multiplayer community is essentially nonexistent now. While you can still play online if you have a friend living nearby, any increase in distance makes the match completely unplayable."
+      }
+    ],
+    "verdict": "An anime football game where your simulation skills will complement the over-the-top mechanics perfectly, with incredible single-player content. Just make sure to forget the online exists."
+  },
+  {
     "id": 31,
     "title": "Sand Land",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/osboV6TR3Ps",
     "ip": "sand land",
     "image": "images/sandland.jpg",
     "platform": "Reviewed on PS5",
@@ -154,7 +198,7 @@
     "platform": "Reviewed on PS5",
     "score": 6,
     "date": "June 2, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
