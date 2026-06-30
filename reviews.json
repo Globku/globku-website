@@ -1,5 +1,49 @@
 [
   {
+    "id": 33,
+    "title": "Bleach Rebirth of Souls",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "bleach",
+    "image": "images/bleachros.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "June 30, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Bleach Rebirth of Souls might be my favorite arena fighter to actually play and look at. As one of the best-looking (and sounding) anime games ever made, it has a lot worth celebrating, but it lacks features that no game should be missing."
+      },
+      {
+        "type": "heading",
+        "text": "Bankai Battles"
+      },
+      {
+        "type": "paragraph",
+        "text": "This game is slower and stiffer than most anime fighters, and I mean that as a compliment. Spacing matters, whiff punishing is real, and every character plays with a different gameplan, often with unique resources no one else has. Even giant-scale bankai transformations get translated into the system without breaking it. Combo routes are rigid, however. Two players on the same character will mostly look identical in execution, leaving only room for player expression in how they navigate neutral and spend their resources.\n\nPlayers must empty the opponent's health bar multiple times to win a battle. How many times depends on how many stocks they can take at any given moment in battle. This is the Konpaku system, which is a smart idea undercut by its own incentives. Taking stocks builds fighting spirit, which lets you take even more stocks later, which means dying on purpose is sometimes the optimal play. A mechanic meant to express character uniqueness ends up encouraging you not to finish the fight. Combine that with cutscenes on every awakening and finishing move, none of them skippable, and the pacing takes real hits in a genre built on momentum."
+      },
+      {
+        "type": "heading",
+        "text": "Online Society"
+      },
+      {
+        "type": "paragraph",
+        "text": "Online is where the game struggles. The delay-based netcode is on par with most arena fighters, which is certainly no praise, but its worst sin is not being able to keep things consistent from your offline practice to the online environment, to the point where specials that are genuinely risky offline, with real mind games, can become guaranteed guard breaks online. It's also missing several features, such as ranked matches which exist in name only, since there's no point loss for losing, no rage-quit penalty, and lobbies still capped at two players with no spectator slots. At least the training mode is excellent, one of the best in any anime fighter, which is the only reason any of this is easy to diagnose."
+      },
+      {
+        "type": "heading",
+        "text": "Hueco Story"
+      },
+      {
+        "type": "paragraph",
+        "text": "The content problems extend to the single player side of the game. Story mode is enormous, roughly 25 hours covering over 300 episodes and 400 chapters of source material, and it's a slog. The animation is simple and doesn't do the source material justice. Fights are mostly simple versus battles with the occasional unique encounter, but most of those, especially against hollows, strip out everything that makes the combat system special.\n\nThe real single-player win is Secret Stories, bite-sized original tales for every playable character that use the same restrained animation but actually earn it with new lore and better-built encounters against unique opponents. It's the mode I'd point people to first, if it weren't locked behind progress in the main story mode. There's also a repeatable mission mode that can be quite challenging for new players."
+      }
+    ],
+    "verdict": "A genuinely great fighting game held back by an undercooked feature set. The systems are some of the best the genre has to offer, but everything surrounding them isn't pulling its weight."
+  },
+  {
     "id": 32,
     "title": "Captain Tsubasa: Rise of New Champions",
     "type": "game",
@@ -98,7 +142,7 @@
     "platform": "Reviewed on Xbox 360",
     "score": 7,
     "date": "June 12, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
