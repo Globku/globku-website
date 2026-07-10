@@ -1,10 +1,54 @@
 [
   {
+    "id": 34,
+    "title": "Dragon Ball Z: Kakarot",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "dragon ball",
+    "image": "images/dbzkakarot.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "July 10, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "If you've ever wanted to get into Dragon Ball Z through video games, Kakarot is the only one that can tell you the whole story from start to finish. If you're a returning Dragon Ball fan, the gameplay is solid, but the story is what carries this game."
+      },
+      {
+        "type": "heading",
+        "text": "From Raditz to Kid Buu"
+      },
+      {
+        "type": "paragraph",
+        "text": "There are many Dragon Ball games that retell the full DBZ story, but they usually tell it in an abridged way, as they assume the player has already watched the show. Kakarot breaks from this, becoming the only game you can play without having watched a single episode and come away knowing as much as the average viewer does. It's a faithful and wonderful retelling of that story, complete with gorgeous cinematics, making it one of the best looking anime games ever made when it's flexing its big cutscenes.\n\nThe most hardcore fans will point to the story missing a few moments, but I think the game more than makes up for it by adding extra scenes never before seen in the show, and making you play not only through the big battles, but even the small mundane moments. That's what makes Kakarot's story work. That's what makes the game feel so immersive.\n\nOutside of the main story, the game also expands the Dragon Ball lore through side quests. While these can be funny or interesting in writing, gameplay-wise their design is often uninspired, consisting of simple fetch quests or battling common enemies you've fought in the main story before."
+      },
+      {
+        "type": "heading",
+        "text": "Over 9000 (XP)"
+      },
+      {
+        "type": "paragraph",
+        "text": "At its core Kakarot is an RPG, but it often feels like a fake RPG. Your character's level is usually determined by where you are in the story, regardless of how much you've grinded as a player. Main missions often give 300 times the amount of XP you can get at any given moment doing side missions, making them feel pointless from an RPG standpoint. Other RPG elements, such as gathering or cooking, are only relevant when playing on Hard difficulty. If you choose to play the game on Easy or Normal, you can ignore most of its systems and think of this game as an action-adventure with a few RPG elements sprinkled in.\n\nThe one place where it truly feels like an RPG is unlocking Talents, along with new moves. There's a big variety of passive skills, super attacks and transformations to unlock, and you're free to equip whichever ones you want on every playable character. So in a way, you can make a build that is somewhat unique to your playstyle, no matter the difficulty you pick."
+      },
+      {
+        "type": "heading",
+        "text": "Kameha-Meh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Combat rounds out the core gameplay, and it does its job without asking for applause. It's mashy and often brainless, but snappy and responsive enough to keep things moving without ever really shining. Where it earns its keep is supporting the storytelling, turning cinematic on command whenever the story needs it, or whenever you want it to.\n\nWith a story this size, boss fights are plentiful, and every major villain gets a unique moveset that keeps each fight feeling distinct across its phases, even if the tools you're given to dodge and counter don't change all that much throughout the entire game."
+      }
+    ],
+    "verdict": "The ultimate Dragon Ball Z story game with gameplay competent enough not to get in its way."
+  },
+  {
     "id": 33,
     "title": "Bleach: Rebirth of Souls",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/XkHgY_1VW20",
     "ip": "bleach",
     "image": "images/bleachros.jpg",
     "platform": "Reviewed on PS5",
@@ -98,7 +142,7 @@
     "platform": "Reviewed on PS5",
     "score": 7,
     "date": "June 18, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
