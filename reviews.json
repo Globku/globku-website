@@ -1,5 +1,49 @@
 [
   {
+    "id": 35,
+    "title": "Avatar Legends: The Fighting Game",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "https://youtu.be/0Ri0BLruRgs",
+    "ip": "avatar",
+    "image": "images/avatarlegends.jpg",
+    "platform": "Reviewed on PC",
+    "score": 8,
+    "date": "July 22, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This 2D fighting game may be easy to pick up, but is brutally hard to master. Avatar Legends has a very appealing $30 price tag, punching above its weight by launching with rollback and crossplay. That said, it's also a bit thin on game modes and online options."
+      },
+      {
+        "type": "heading",
+        "text": "Master Bender"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a fast fighting game with 12 characters that have genuinely distinct playstyles, and 3 selectable supports per character for further specialization. Basic combos require tight links, characters have specific Critical Hit conditions that lead to new routes and require precise positioning. It also has a lot of flexibility, which allows for a high skill ceiling, but it can also feel unforgiving in its precision.\n\nAt the base level it does a good job of welcoming beginners with auto combos and basic ABC-into-special routes that will work for most characters. Only when you're ready to take the next step does the difficulty ramp up sharply.\n\nHowever, complexity can be a good thing. During matches there is a lot you can consider, largely thanks to the Flow System: a series of moves and actions unique for each character that focuses on defence and movement.\n\nAvatar Legends is not that hard to get started with, but incredibly daunting if you want to master it."
+      },
+      {
+        "type": "heading",
+        "text": "Elemental Content"
+      },
+      {
+        "type": "paragraph",
+        "text": "As far as content goes, the game is pretty thin, but there's quality to be found in each game mode.\n\nStory Mode features an original story written by the original ATLA creators. Despite having a low-stakes \"alternate universe\" plot, it has fun character interactions that kept me engaged, with full voice acting and in-engine animations. Gameplay-wise it's not so interesting, as it mostly consists of versus CPU battles with some light RPG progression sprinkled on top.\n\nArcade Mode also has unique character interactions. Whoever you pick goes through a small mini-story that's usually low stakes too.\n\nThe game features some great practice tools, with training mode having frame data, recording options, input readers and more. Every character also has a tutorial that takes you through the character's concept, their main buttons and mix-up ideas, as well as Combo Trials that double as a fun challenge to clear. I noticed input-recognition jank while clearing these, but through my interactions with the developer, I'm confident a quick fix will follow if any big issues arise post-launch."
+      },
+      {
+        "type": "heading",
+        "text": "Fire Online"
+      },
+      {
+        "type": "paragraph",
+        "text": "At launch, the online feature set is thin. You can matchmake in casual or ranked matches, and lobbies are capped at 2 players. Bigger lobbies with spectating have been promised, but are not available yet.\n\nThe game nails what matters though, which is rollback netcode and crossplay. When playing a game as fast as this with rollback, you're bound to catch some teleporting, especially with faster characters or Zaheer, who has a free flight ability. Poor wifi will expose this weakness further, but it's still better than the delay-based alternative.\n\nAt this price point, there aren't many fighting games offering rollback and crossplay, something that's definitely praise-worthy, since many AAA titles still don't prioritize it.\n"
+      }
+    ],
+    "verdict": "It's a scary fighting game to master, but will reward you for trying. While it may be thin on content, its price tag, rollback netcode, and crossplay make it an example to follow."
+  },
+  {
     "id": 34,
     "title": "Dragon Ball Z: Kakarot",
     "type": "game",
@@ -98,7 +142,7 @@
     "platform": "Reviewed on PS5",
     "score": 8,
     "date": "June 23, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
