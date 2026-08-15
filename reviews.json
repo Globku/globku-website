@@ -1,5 +1,93 @@
 [
   {
+    "id": 37,
+    "title": "My Hero: One's Justice 2",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "my hero academia",
+    "image": "images/mhoj2.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "August 15 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "More characters! More story! More stages! But does more mean the game got better? In some places, this sequel actually got worse."
+      },
+      {
+        "type": "heading",
+        "text": "Shot In the Foot Style"
+      },
+      {
+        "type": "paragraph",
+        "text": "One's Justice 2 feels better than the first game. It's still floaty. It still has that awkward wall combat. But they reduced a lot of recovery in basic actions and added the ability to dodge. This has made movement much faster, and made the game feel a lot snappier. However, they also added a few new systems that didn't necessarily improve the game. You can now do as many dash cancels as you want, at the cost of a little bit of meter. The removal of the \"one dash cancel per jump\" limit from the first game has made combos significantly longer. Something the game didn't need. They also doubled down on stage destruction, but this has never felt good in this series. Objects feel like they're made of paper, as the most basic dashes can destroy them easily. So they end up being nothing more than clutter.\n\nThe roster was significantly increased, the game added almost 20 new characters. Each one feels as unique as the rest of them. This is the highlight of the One's Justice series. Characters don't have any copy-pasted moves. They all play very uniquely, filling different roles in gameplay. And that makes this increase in number very impressive."
+      },
+      {
+        "type": "heading",
+        "text": "All Might, No Growth"
+      },
+      {
+        "type": "paragraph",
+        "text": "Story Mode and Arcade saw no improvements. The slideshows are back. All of it is simple CPU battles, with the exception of a single boss fight that's simply not fun.\n\nThe biggest improvement in single player content was to Mission Mode. They leveled up RPG systems quite significantly, by letting you choose which stats to level up on each character (between Attack, Defense and HP), and adding a system with passive buffs utilizing cards that you can equip, making different builds for your character. It's a challenging game mode, as the CPU also takes advantage of this card system, and often has some challenging builds themselves.\n\nMission Mode is definitely the highlight of the single player content, but with how poor the other two modes are, the offering feels very thin."
+      },
+      {
+        "type": "heading",
+        "text": "Quirkless Rank"
+      },
+      {
+        "type": "paragraph",
+        "text": "Online was arguably the place that needed the most love, but saw virtually no improvements. While the netcode is still solid (like the first game), it still lacks a real ranked system, as it fails to punish rage quits or deduct points whenever a player loses a ranked match.\n\nLobbies can still only hold up to 2 players at a time, lacking support for groups, and giving us no way of spectating each other's matches.\n\nThe one mode that was added was a 2v2 mode, where one player controls the point character, and another controls the assists. A good idea in theory, ruined by the limitation that your partner must play locally on the same machine. This made it really hard to find matches online even at launch."
+      }
+    ],
+    "verdict": "One's Justice 2 still stands out as one of the deepest and most unique arena fighters in the world. But the lack of features and improvements makes this a disappointing sequel."
+  },
+  {
+    "id": 36,
+    "title": "Marvel TOKON: Fighting Souls",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "https://youtu.be/BmzPffJPa7s?si=LQ0YsP9W7drxDjFI",
+    "ip": "marvel",
+    "image": "images/marveltokon.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "August 14 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sony and ArcSystemWorks have brought Marvel back into the fighting game space, with an innovative tag fighter that manages to be deep, while being one of the most welcoming fighting games for beginners."
+      },
+      {
+        "type": "heading",
+        "text": "One 4 All"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a 4-character tag fighter, but unlike other tag fighters you only have one shared health bar for your entire team. This means you don't need to learn 4 characters before going online, you can just learn your favorite and use the others as assists. At higher levels, tagging will be important, but that's something you can ease into thanks to the single health bar.\n\nMatches start with only 2 characters. Assembling the team is one of the game's core mechanics. You can do this by smashing opponents into walls, or by losing rounds. This adds a new layer of strategy as a player, as with every combo you must decide on the fly whether you want damage, oki, or assemble.\n\nThe 21-character launch roster is incredible, as each character has the potential for a lot of specific tech, while at the same time being beginner friendly. All characters share the same special move inputs and have universal (albeit sub-optimal) combo routes. On top of that, the game's auto combo system and one-button specials (that deal 10% less damage compared to their manual input counterparts), further welcome beginners who want to make TOKON their first fighting game.\n\nTo learn all of these systems and characters, the game features one of the best training modes in the business, and a wide variety of tutorials that go from universal systems down to character specific tech and combos.\n\nNot all innovations felt great however. Ground combo strings are capped at 4 attacks before having to do a special move, which will take a while to get used to if you're coming from other fighting games. Assists can't be called during a narrow window when performing a special move. While only being an occasional issue, it  can lead to you getting opened up, despite having pressed the button that would save you. And there are also some misinputs thanks to the input reader and buffer system.\n\nMake no mistake, Marvel TOKON has incredible fighting mechanics, but it's by no means a perfect game."
+      },
+      {
+        "type": "heading",
+        "text": "Content Assemble"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game offers a solid collection of offline modes:\n- Episode mode: 5 team-based story campaigns, each illustrated by a different artist with animated comic panels and voice acting. Roughly 6 hours of play time in total, unlocking new colors for every character.\n- All-Star Arena: an arcade mode that offers 5 team courses with branching paths, 4 difficulty tiers, and unlockable character art per ending.\n- Survival Mode: combines roguelike leveling and card buffs with a 100-battle survival run. The first battles feel boring due to the lack of difficulty, making each run feel very long.\n\nThere are also a few extras, including a full art gallery, a detailed character glossary, and a team-building menu with custom names, poses, and per-character language mixing."
+      },
+      {
+        "type": "heading",
+        "text": "Rollbackia Forever"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fighting games often live and die by the online, and even though ASW has a lot of experience in this field, Marvel TOKON's online experience is dragged down by the PC port. Even when playing on PS5, crossplay means match quality can be a bit of a coin flip. And outside of crossplay, there are still occasional rollback frame spikes and reported desyncs, particularly when spectating matches.\n\nThe Online suite is feature complete though, with the standard Ranked and Unranked modes, plus private lobbies supporting up to 8 players, and open lobbies with interactive buildings and mini-games.\n\nArcadia Rush feels like a nice bonus game mode, adding a lighter, collectible-based side activity, though it struggles to fill 8-person lobbies since it's not the game's main attraction."
+      }
+    ],
+    "verdict": "Marvel TOKON feels fresh and deep, while being one of the most accessible fighting games ever made. A good single-player offering paired with a complete package of online features, stained only by the occasional online hiccups and poor PC performance."
+  },
+  {
     "id": 35,
     "title": "Avatar Legends: The Fighting Game",
     "type": "game",
@@ -48,13 +136,13 @@
     "title": "Dragon Ball Z: Kakarot",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/Zo8Lcxyn3LI",
     "ip": "dragon ball",
     "image": "images/dbzkakarot.jpg",
     "platform": "Reviewed on PS5",
     "score": 8,
     "date": "July 10, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
@@ -98,7 +186,7 @@
     "platform": "Reviewed on PS5",
     "score": 7,
     "date": "June 30, 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
