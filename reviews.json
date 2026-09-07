@@ -1,5 +1,177 @@
 [
   {
+    "id": 42,
+    "title": "Extra Episode 3: The Unfinished Map",
+    "type": "dlc",
+    "parentGame": "One Piece: World Seeker",
+    "youtubeUrl": "https://youtu.be/D2_H5ipza2c",
+    "ip": "one piece",
+    "image": "images/onepieceworldseekerdlc3.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 9,
+    "date": "September 7, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This World Seeker DLC follows Law during the events of the main game, spending most of its runtime across the sky islands above Prison Island alongside Rule, the best original character this series has produced. Law's Devil Fruit ability changes everything, elevating combat, stealth, and traversal well beyond anything the other DLCs manage."
+      },
+      {
+        "type": "heading",
+        "text": "Order From Shambles"
+      },
+      {
+        "type": "paragraph",
+        "text": "Law's Shambles ability lets him teleport, and it's the one piece of design this game's stealth needed all along, sneaking finally has real tools behind it instead of working against the player. His base melee combo stays simple, but Shambles elevates combat too, opening up repositioning and letting fights happen on better terms than a straight slugging match.\n\nRule, a kid chasing his late father's mission to fully map the sky islands, drives a story that balances real emotional weight with light-hearted comedy. He has no powers of his own, and Law spends the DLC reluctantly pulling him out of trouble while chasing the mystery of the islands himself. A few big One Piece enemies get in the way, serving as strong boss fights, rounding out the DLC package."
+      }
+    ],
+    "verdict": "Shambles fixes what World Seeker got wrong, elevating stealth and combat alike. Paired with Rule's story and strong boss fights, this is the DLC that finally delivers on the game's promise."
+  },
+  {
+    "id": 41,
+    "title": "Extra Episode 2: Where Justice Lies",
+    "type": "dlc",
+    "parentGame": "One Piece: World Seeker",
+    "youtubeUrl": "https://youtu.be/D2_H5ipza2c",
+    "ip": "one piece",
+    "image": "images/onepieceworldseekerdlc2.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 5,
+    "date": "September 7, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This World Seeker DLC follows Sabo during the events of the main game. His combat feels even more limited than Luffy's, a new damage-buff gauge that rewards sustained attacking barely makes up the difference. The bigger shift is a focus on stealth, and that's arguably the worst system the game has to offer."
+      },
+      {
+        "type": "heading",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Sabo's talent tree leans further into stealth, and many of his missions are built around it. The problem is structural: the base game's stealth systems were designed to be weak on purpose, since Luffy was never meant to sneak well, and that same limitation carries over to a character built to depend on it.\n\nHis traversal mirrors Luffy's in concept, grappling between points to cover ground, but it fits worse narratively. Sabo already turns into a living fireball and flies, so the reliance on grapple points feels like an afterthought rather than a natural fit.\n\nThe DLC does land its best new boss fights, it's just a shame Sabo is the one stuck fighting them, since his combos feel just as limited as Luffy's are."
+      }
+    ],
+    "verdict": "Sabo's fireball flight makes his grapple-based traversal feel redundant, and his stealth-focused design collides with a system the base game never built to support anyone. The best new boss fights in the DLC catalog can't offset a character stuck with Luffy's same combat limitations."
+  },
+  {
+    "id": 40,
+    "title": "Extra Episode 1: The Void Mirror Prototype",
+    "type": "dlc",
+    "parentGame": "One Piece: World Seeker",
+    "youtubeUrl": "https://youtu.be/D2_H5ipza2c",
+    "ip": "one piece",
+    "image": "images/onepieceworldseekerdlc1.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "September 7, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This World Seeker DLC expands its story by following Zoro during the events of the main game. Zoro comes equipped with a brand new moveset and talent tree, and while his combat is a clear step up from Luffy's, losing the grapple hurts his traversal badly."
+      },
+      {
+        "type": "heading",
+        "text": "Lost Without the Rubber"
+      },
+      {
+        "type": "paragraph",
+        "text": "The DLC's few new boss fights genuinely put Zoro's improved combat to good use, but that's not where most of the time goes. The bulk of it plays out in a new underground warehouse zone, repetitive and tedious to move through. Zoro's only real movement tool is an infinite wall jump, which does nothing for an environment built entirely underground, so most of it comes down to plain sprinting from point to point. And while the combat upgrade is real, it doesn't turn this into a good action game on its own."
+      }
+    ],
+    "verdict": "While combat saw significant improvements, this DLC overlooks the most fun part of World Seeker: the traversal."
+  },
+  {
+    "id": 39,
+    "title": "One Piece: World Seeker",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "one piece",
+    "image": "images/onepieceworldseeker.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "September 7, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "One Piece World Seeker had one job: put Luffy in a real, open world and let his rubber powers do the rest. On that single promise, it delivers something genuinely special. On almost everything built around it, the game stumbles hard enough to explain why most people wrote it off entirely. Somewhere between a movement system worth remembering and a combat system worth forgetting sits a game far more interesting than its reputation suggests."
+      },
+      {
+        "type": "heading",
+        "text": "Rubber Web-Slinger"
+      },
+      {
+        "type": "paragraph",
+        "text": "Grappling across World Seeker's open world using Luffy's stretching powers is easily the best thing the game does, and often reminded me of open world Spider-Man games. It's a skill with real depth, chaining pulls and momentum into something genuinely satisfying to master. Baffling design choices undercut it at every turn. A chunk of the best movement abilities sit locked behind a talent tree for hours, and snipers are placed in the major cities, exactly where flying around would be most fun.\n\nWhile the traversal is fun, the world does very little to support it. Treasure chests dot the island, but they only feed a crafting system too shallow to be missed if it vanished entirely. Side missions fill the rest with repetitive fetch-and-kill busywork, recycling boss fights from the main story instead of building anything new. The writing takes the same hit, a clear step down from the ambition driving the main quest."
+      },
+      {
+        "type": "heading",
+        "text": "Bigger Than the Bounty"
+      },
+      {
+        "type": "paragraph",
+        "text": "As a One Piece story, World Seeker is worthy of praise, as it looks past the Straw Hats and builds on the world of One Piece itself. It expands on the Dyna Stones introduced and abandoned in One Piece Film: Z, setting the entire game on an island rich with them. Marines and pirates alike converge on the island chasing power that rivals the Ancient Weapons, and that collision creates the game's villain, Isaac, whose mother died in the crossfire between the two factions. His motivation and the island's politics feel like an inevitable consequence of that setup rather than a contrivance bolted on for drama. Fan service is present, admirals and major pirates find their way to the island on justifications that stretch credibility, but zoomed out, the story stands as one of the strongest in the genre."
+      },
+      {
+        "type": "heading",
+        "text": "Haki's Broken Promise"
+      },
+      {
+        "type": "paragraph",
+        "text": "Combat is the game's biggest weakness. Melee combos are limited, and long enemy knockdowns kill any sense of flow. A third person shooter layer built around the Gomu Gomu Pistol adds some depth, headshots hit hard, but the mix between melee and shooting feels awkward to control. Meter builds toward a few super attacks, but none of it hides how shallow the system is at its core.\n\nCranking up the difficulty is the only thing that makes it click. Perfect dodges and perfect blocks stop being optional once basic enemies can one-shot you, forcing real focus on execution. The moveset stays thin, but at least the difficulty gives it a reason to matter."
+      }
+    ],
+    "verdict": "An easy game to get lost in, simply traversing its world is a lot of fun. But to experience the incredible story underneath, you'll have to suffer through a lot of bad development decisions."
+  },
+  {
+    "id": 38,
+    "title": "Captain Tsubasa 2: World Fighters",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "https://youtu.be/WD6f8xhYoiI",
+    "ip": "captain tsubasa",
+    "image": "images/ct2wf.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "September 1, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Simplify the mechanics, expand the roster, streamline the super moves. On paper, World Fighters reads like the perfect sequel to Rise of New Champions. On the pitch, it mostly is. Off it, things fall apart fast."
+      },
+      {
+        "type": "heading",
+        "text": "Straight to the Top Corner"
+      },
+      {
+        "type": "paragraph",
+        "text": "World Fighters strips almost everything down compared to the first game, and the simplification pays off. Hardcore fans who loved obsessing over passive skills and stat micromanagement may miss that depth, but the tradeoff makes the game far easier to read on screen. Every character now carries a single super move, built up like an ultimate gauge rather than handed out from the start of the match. Layered on top is the Chain Level, a team-wide multiplier that grows with every dribble or special action and powers up the next shot at goal. It's a smart risk-reward system, since getting tackled means that chain is stolen outright, handing the advantage straight to the opponent. Goalkeepers get their own moment to shine too, with a quick-time event capable of stopping a shot even at zero stamina, though a bad read can just as easily concede on the first attempt.\n\nTrouble shows up in two systems that touch every single match. The camera insists on framing both the ball carrier and the opponent's selected player at once, leading to violent whiplash whenever the ball changes hands quickly. Player switching fares even worse, forcing automatic swaps on every opposing pass with no way to turn it off, turning defense into as much a fight against the game as against the opponent. Neither issue is minor, and both drag down what is otherwise the strongest gameplay loop the series has had. But dig past the moment-to-moment play, and the real problems with World Fighters start somewhere else entirely: its content."
+      },
+      {
+        "type": "heading",
+        "text": "The Grass Was Greener"
+      },
+      {
+        "type": "paragraph",
+        "text": "World Fighters swaps the choose-your-path story of Rise of New Champions for something far more conventional. Instead of building out an entire custom team, players create a single character to follow through a straightforward, linear retelling of Tsubasa's road from Brazil to the World Youth Championships. Cutscene quality is inconsistent throughout, capable of looking gorgeous in the right moments but just as often falling into an awkward pace, and story interruptions during matches break immersion more than they should, thanks to heavy loading screens and constant fades to black between small cutscenes.\n\nThe optional challenges scattered through each match are the clear highlight of the mode, encouraging experimentation with new moves and different squad members rather than settling into a routine, and offering the only real reason to replay missions. Beyond the canon story, a set of what-if routes also unlock, expanding the roster available for Versus and Online modes down the line.\n\nTaken together, World Fighters trades the first game's replayable story for a perfectly average anime-game story mode. That would be an easy tradeoff to accept if Online picked up the slack. It doesn't."
+      },
+      {
+        "type": "heading",
+        "text": "The Own Goal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Netcode is better than the first game, but only because that bar was set so low. A constant stutter runs through every match, and in a game built almost entirely around reactions, that stutter degrades shots, dribbles and tackles into guesswork rather than genuine reads. The feature set doesn't do the mode any favors either. Lobbies cap out at two players with no spectating, there's no rematch avoidance to stop running into the same opponent repeatedly, and ranked points can still be lost when an opponent simply rage quits.\n\nTeam availability compounds the problem. Since most national teams stay locked behind a long story mode, early matchmaking is dominated by Brazil and Japan, the only two sides unlocked from the start, leaving opponent variety thin exactly when new players are forming their first impression of the mode."
+      }
+    ],
+    "verdict": "The sequel improves the original's gameplay in almost every way. Unfortunately, neither Story Mode nor Online have the power to carry it, leaving a good game with no content worth exploring it with."
+  },
+  {
     "id": 37,
     "title": "My Hero: One's Justice 2",
     "type": "game",
@@ -10,7 +182,7 @@
     "platform": "Reviewed on PS5",
     "score": 6,
     "date": "August 15 2026",
-    "featured": true,
+    "featured": false,
     "content": [
       {
         "type": "paragraph",
