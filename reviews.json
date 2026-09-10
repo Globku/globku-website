@@ -1,5 +1,49 @@
 [
   {
+    "id": 43,
+    "title": "Spy x Anya: Operation Memories",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "spy x family",
+    "image": "images/spyxanya.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 5,
+    "date": "September 10, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Operation Memories asks a simple question: what if you could live in Anya's shoes for a few months? Spy x Anya captures the charm, humor, and heart that made the anime a hit, and the pitch is enough to get any fan curious. Whether the game built around it knows who it's actually for is another story."
+      },
+      {
+        "type": "heading",
+        "text": "Mission: Reptitition"
+      },
+      {
+        "type": "paragraph",
+        "text": "The loop is simple. Anya wakes up, goes to school for a photo and some chat with friends, comes home for another photo, a conversation with her parents, and a mini game before bed. Every third day swaps school for an Outing, which just doubles the photo count to two. Strip it down and the entire game is photos, chat, and mini games. The writing carries it, and the photo system that hunts for the right focus, angle, and timing is satisfying, but that's an awfully small loop to build a full-price game around.\n\nThe padding gives that away. Outings cap photos at two per visit, and each location holds six, so every single one demands three separate trips. Mini games require three clears apiece just to unlock the next difficulty tier. None of this adds depth, it just stretches a thin loop thinner.\n\nThe mini games themselves range from okay to outright bad. Since the whole game revolves around Anya, they're also the only way to play as Yor or Lloid, and their entries happen to be among the weakest of the 17-game collection."
+      },
+      {
+        "type": "heading",
+        "text": "Exclusive Intel"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game nails the Spy x Family vibe. It doesn't tell a big story, but focuses on the small slice-of-life moments just like the show, with great voice acting and writing throughout.\n\nTalk to your friends or parents enough and you'll trigger a full cutscene, essentially a 3-4 minute mini episode of Spy x Family. Exclusive content that actually feels like the source material is the game's greatest strength. Getting to it, though, means grinding through the loop several times first, which makes it feel like something better suited to a YouTube clip than something worth suffering through the game for."
+      },
+      {
+        "type": "heading",
+        "text": "Peanuts for Thoughts"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you like dressing up characters, you're in luck. The game packs in hundreds of items for the whole family, including Bond. Outfits, hats, hairstyles, all mixable across characters, built around whatever location you're visiting next, or ignored entirely if that's not your thing. Worth noting you're building a photo album along the way, so those outfits actually show up in your shots.\n\nThis game feels aimed at a different reader than the one who usually finds their way to my reviews, so working out who it's for takes some digging, and that customization hook might be the answer for some people. They'll still have to grind through the loop to unlock all of it, though.\n\nIt doesn't read as a kids' game either. Japanese voices with English subtitles only, no other language options. And while the mini games aren't good, they're not exactly built for children either. Some of them get genuinely hard."
+      }
+    ],
+    "verdict": "As a budget release, this could land with a very specific audience, but even they would have to suffer through a repetitive gameplay loop and lackluster mini games."
+  },
+  {
     "id": 42,
     "title": "Extra Episode 3: The Unfinished Map",
     "type": "dlc",
@@ -88,7 +132,7 @@
     "title": "One Piece: World Seeker",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/bhEEcNUugQ8",
     "ip": "one piece",
     "image": "images/onepieceworldseeker.jpg",
     "platform": "Reviewed on PS5",
