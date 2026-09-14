@@ -1,10 +1,54 @@
 [
   {
+    "id": 44,
+    "title": "Jojo's Bizarre Adventure: All Star Battle R",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "jojo",
+    "image": "images/jojoasbr.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 5,
+    "date": "September 14, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This Jojo fighting game shouldn't work as well as it does, especially for a remaster that's mostly just inherited what already worked in 2013. Fifty one characters, each pulled straight from a show built on absurd powers and even more absurd rules, somehow turned into one of the most inventive fighting games on the market. And somehow, almost none of that matters."
+      },
+      {
+        "type": "heading",
+        "text": "Bizarre, In The Best Way"
+      },
+      {
+        "type": "paragraph",
+        "text": "All Star Battle R gets so much right at a systems level. Its mechanics hand players enormous freedom in combos and pressure, both through universal tools like animation-canceling for meter, and through character-specific gimmicks: detaching a Stand to act independently from its user, fighting on horseback, using Hamon as either a charging meter or a move enhancer. There's even a playable dog going up against an eagle. It's absurd, but so is Jojo.\n\nThese systems aren't just inventive, they're loyal to the source material. Character gimmicks consistently make players feel like they're actually playing that character, not just controlling a reskinned moveset. For a licensed fighting game, that's the hardest thing to get right, and All Star Battle R nails it.\n\nShame about everything else."
+      },
+      {
+        "type": "heading",
+        "text": "All Star, No Substance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Game Modes, by contrast, are extremely thin. The original 2013 story mode wasn't great to begin with, and the new All Star Battle mode is a downgrade rather than a fix. It's mostly a series of versus-CPU battles, dressed up with the occasional wrinkle like health depleting over time or losing the ability to block. Outside of that, there's Tournament mode, Arcade, and Endless Survival, all variations on versus-CPU with a different coat of paint. That's usually fine as supplementary content sitting alongside a stronger single-player mode, but when the main mode feels just as disposable as the side modes, there's nothing actually backing up this combat system. Maybe the intent was to push players toward online PvP instead. If so, why is the online so bad?"
+      },
+      {
+        "type": "heading",
+        "text": "Menacing... Empty Lobbies"
+      },
+      {
+        "type": "paragraph",
+        "text": "Online lacks basic features. Lobbies only hold two players, ranked matches offer no rematches, and matchmaking has been broken since launch, frequently getting stuck or failing to place two players in the same room.\n\nThe game is functionally dead at this point, and it's easy to see why: even clearing that matchmaking hurdle, the netcode is atrocious, even by CC2 standards. It stutters frequently, eats inputs, and desyncs, all while running on delay-based netcode to begin with. No wonder the playerbase left.\n\nA competitive scene still exists on PC, and there's some fun to be had there, but even that community prefers running matches through Parsec rather than the game's native online."
+      }
+    ],
+    "verdict": "An excellent fighting game trapped inside an online experience that makes sure almost no one will ever play it."
+  },
+  {
     "id": 43,
     "title": "Spy x Anya: Operation Memories",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/jD5hbPWeKb8",
     "ip": "spy x family",
     "image": "images/spyxanya.jpg",
     "platform": "Reviewed on PS5",
