@@ -1,10 +1,54 @@
 [
   {
+    "id": 45,
+    "title": "Demon Slayer: Hinokami Chronicles",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "demon slayer",
+    "image": "images/dshc.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "September 21, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Backed by its experience with the Naruto Storm series, CC2 now gives Demon Slayer its signature treatment, this time under the umbrella of Aniplex and Sega. Fans of the studio's previous work will find the game very familiar, but freed from the shackles of a decade-long series, CC2 has been able to try something new. Some of the old struggles, however, followed it over."
+      },
+      {
+        "type": "heading",
+        "text": "First Form: Final Mastery"
+      },
+      {
+        "type": "paragraph",
+        "text": "As an arena fighter, this game is easy to get into and still has a skill ceiling high enough to make mastery satisfying. Combos are simple to create and link together, but each one has to be executed within a time limit that varies with how it started. Performing combos is the easy part. What separates high-level players is optimizing within that limit and finding the best punish for an opponent's mistakes.\n\nHinokami Chronicles plays at a much slower pace than Storm, which makes the action easier to follow. The trade-off is a very limited number of escapes, compared to the four substitutions in Storm. Those escapes are tied to the assist gauge, so calling for assists means giving up the ability to escape combos until the bar refills. That forces you to weigh defense against offense throughout the match."
+      },
+      {
+        "type": "heading",
+        "text": "Set Your Story Ablaze"
+      },
+      {
+        "type": "paragraph",
+        "text": "What's made CC2 famous as an anime game studio are its wonderful story modes, which let players relive their favorite shows. Hinokami Chronicles has one of the best the studio has ever made.\nNot a single encounter is a simple fight against a CPU-controlled playable character. Every encounter is uniquely crafted for story mode, from minor demons to the big boss fights, and there are plenty of those. Backed by beautiful CG cutscenes and the fan-favorite Quick Time Events, this is CC2's story work at its best.\n\nBattles pause for brief exploration sections that are mostly linear, with detours for collectibles and side missions that further explore the lore of Demon Slayer.\n\nThe biggest criticism is the lack of difficulty across these missions. It's not until the final chapter (Mugen Train) that the game becomes somewhat challenging. It also lacks any other worthwhile game modes: no arcade, no survival. Just an insultingly boring mode called \"Training\" that features CPU battles filled with copy-pasted objectives."
+      },
+      {
+        "type": "heading",
+        "text": "Mugen Delay"
+      },
+      {
+        "type": "paragraph",
+        "text": "As usual, online is CC2's greatest weakness. Setting aside a rough launch that has mostly been fixed since, the game is still delay-based and has no crossplay. While this is probably the studio's most stable delay-based netcode yet, that stability comes from adding a lot of base delay to every match. Expect about half a second of input delay, even against your neighbor.\n\nThat said, it's playable, and the online feature set is complete, with Ranked, Casual, and eight-player lobbies. That was enough to cultivate a fairly competitive community and a healthy player base at the time."
+      }
+    ],
+    "verdict": "The Demon Slayer game fans have been waiting for, but an outdated online holds it back."
+  },
+  {
     "id": 44,
     "title": "Jojo's Bizarre Adventure: All Star Battle R",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/GmIgM41eMKg",
     "ip": "jojo",
     "image": "images/jojoasbr.jpg",
     "platform": "Reviewed on PS5",
