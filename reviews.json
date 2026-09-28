@@ -1,10 +1,54 @@
 [
   {
-    "id": 45,
-    "title": "Demon Slayer: Hinokami Chronicles",
+    "id": 46,
+    "title": "My Hero Academia: All's Justice",
     "type": "game",
     "parentGame": "",
     "youtubeUrl": "",
+    "ip": "my hero academia",
+    "image": "images/mhaaj.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "September 28, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Developer Byking brings My Hero back to the arena with All's Justice, introducing new tag and Rising systems alongside a 68-character roster. The fighting is where it shines, but poor stages and shaky online performance keep it from being the complete package."
+      },
+      {
+        "type": "heading",
+        "text": "Rising For All"
+      },
+      {
+        "type": "paragraph",
+        "text": "My Hero is now a tag game! The tag system feels very unrestricted. Tags can be used after whiffing attacks, during combos and blockstrings, and even on block. That allows for so much player expression. The other new system is Risings, which are Awakenings done right! Every character gets a unique buff. Some change their entire moveset, while others gain bonus properties to their quirks. Strength varies, but there is very little copy-paste across this huge 68-character roster.\n\nCharacters still play distinctly. Not a single moveset is copied, and every character's quirks feel different and take practice to master. That is even more evident now that dash cancels are gone, which demands extra creativity and knowledge for combo extensions. The strength of the roster has carried over into All's Justice, and so have this developer's flaws. Infinite combos and blockstrings were found quickly, and every patch fixes some while creating others. This issue followed One's Justice 2 for its entire lifespan, and it is showing no signs of going away.\n\nThe weakest part of the gameplay is by far the stages. The selection is limited, with only 9 stages in versus and online, and most of them are awful. They are full of uneven platforms and indestructible obstacles, often leading to performance dips and lag spikes. Even the cleaner stages are dragged down by the on-screen representation of the invisible wall. Invisible might be the worst word to describe it. It is incredibly obnoxious and hurts the game visually, no matter where you fight."
+      },
+      {
+        "type": "heading",
+        "text": "Team Up, Let Down"
+      },
+      {
+        "type": "paragraph",
+        "text": "Single-player content has gone from really bad to acceptable. Story Mode now has good CG cutscenes instead of slideshows, but the gameplay is still mostly simple versus matches against the CPU. The exception is the final two missions, which are awesome.\n\nTeam Up Mission feels built to be the main single-player mode, which is a shame because it is the weakest one. Players can free roam in open sandboxes, but movement feels awkward no matter which character is being controlled. Missions are recycled, and every enemy has an annoying armor gimmick that has to be dealt with constantly. A few challenge missions are fun, but they make up such a small part of the mode that they are barely worth mentioning.\n\nArchive Battle is a short series of 1v1 boss fights with CG cutscenes and timed challenges. It is the best of the three, but very short by comparison.\n\nHero's Diary is a very casual mode that offers some what-if scenarios, but the writing is so weak that the mode is forgettable.\n\nOverall, it is a decent single-player package, but not one that justifies the price on its own."
+      },
+      {
+        "type": "heading",
+        "text": "Sidekick Netcode"
+      },
+      {
+        "type": "paragraph",
+        "text": "At last, My Hero has a complete set of online features: Ranked Matches, Casual Matches and 8-player Lobbies with spectating.\n\nUnfortunately, the once-stellar delay-based netcode has taken a hit, which is surprising given the developer's track record. It is a lot less stable than before and no longer handles long-distance connections as well. For a pure online experience, One's Justice 2 may still be the better game."
+      }
+    ],
+    "verdict": "All's Justice falls short of greatness because of its poor stages and unstable online. But the huge roster, the new systems and the single-player content easily make it the best game in the trilogy."
+  },
+  {
+    "id": 45,
+    "title": "Demon Slayer: The Hinokami Chronicles",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "https://youtu.be/eF7-OQuzpsk",
     "ip": "demon slayer",
     "image": "images/dshc.jpg",
     "platform": "Reviewed on PS5",
