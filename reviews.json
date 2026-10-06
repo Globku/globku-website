@@ -1,10 +1,54 @@
 [
   {
+    "id": 47,
+    "title": "A.O.T. Wings of Freedom",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "attack on titan",
+    "image": "images/aot.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "October 6, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "You don't necessarily think musou when you hear the words Attack on Titan, but that's probably what led Omega Force to deliver one of the most unique games the genre has seen. Wings of Freedom nails the fantasy of moving freely with the ODM gear, but it still can't escape the genre's repetition, and the content behind it is thinner than the hours suggest."
+      },
+      {
+        "type": "heading",
+        "text": "O.D.Movement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wings of Freedom has far fewer enemies than a typical musou, since a single swing of the blade can't wipe out 10 Titans. The focus shifts to movement with the ODM gear, and it feels incredible. Hooks attach to actual buildings, momentum carries from one swing to the next, and gas canisters add an extra boost. Soon enough, the goal stops being speed for a single nape strike and becomes using that momentum to chain one kill into the next. Manual control over movement and attacks makes the gameplay incredibly satisfying, but it also puts every failure on the player. A line breaks if a Titan comes between you and the hooking point, and a strike without enough speed lands weak. It's a system that rewards mastery by handing over control instead of guiding the player through it.\n\nThe cast is playable, with each character bringing their own perks. Eren is perhaps the most distinct, turning into a Titan once a meter fills, but that's easily the weakest part of the gameplay. Titan handling feels awkward next to how good the ODM movement is.\n\nDespite being a unique take on the musou genre, the game keeps a few of its usual problems. It gets very busy, with big text boxes popping up in the middle of the screen on every kill, hurting visibility especially when surrounded by Titans, and mission objectives are also quite repetitive."
+      },
+      {
+        "type": "heading",
+        "text": "Repeat on Titan"
+      },
+      {
+        "type": "paragraph",
+        "text": "The objective boils down to \"go to place\" and \"kill Titans\". The context might be escorting a civilian or rescuing a fellow soldier, but the gameplay doesn't change much. To be fair, the base systems are solid enough to hide this repetition for a long time, just not forever. Rather than seeing all the content, the goal quickly becomes getting better gear. Different blades, gas canisters and ODM gear can be equipped, making life easier as the missions get harder. But on the quest for the best equipment, not only will the missions feel repetitive, the game asks you to repeat the same ones dozens of times, farming the materials needed to craft it.\n\nThis repetition could be lightened if different Titans were fought differently. To their credit, hundreds of Titans were designed, but despite looking different, they barely change how you fight them. The Bizarre Titans are the exception here. The Female, Armored and Beast Titans all have different mechanics that demand attention, but even then, 3 boss fights across hundreds of missions isn't enough to rid the game of this repetitive feeling.\n\nWhat does help the repetitiveness is online coop! All the side missions can be grinded with a party of up to 4 players so getting gear with friends is better than alone."
+      },
+      {
+        "type": "heading",
+        "text": "Grind Corps"
+      },
+      {
+        "type": "paragraph",
+        "text": "It's very clear who this game was designed for. Story Mode can be cleared in just 8 hours. It retells the events of the anime's first season, complete with voice acting and CG cutscenes. After that, you might want to unlock the Epilogue, which dives into the start of Season 2, but that means grinding side missions for hours first. Finishing the Epilogue unlocks New Game Plus, where you can do it all over again on Hard Mode.\n\nIt's hard to say this game has a lot of content when every side mission takes place on the same maps as Story Mode, and the enemies are the same ones faced there. Yet if you want to put 100 hours into this title, the game supports it. You're not seeing anything new, but you are tackling harder and harder missions, getting stronger with every upgrade.\n\nIn the end, the $40 price tag might be just right, since the basic act of playing the game feels good. But for content-driven players, it might be a tall ask."
+      }
+    ],
+    "verdict": "Movement and combat work as one system, with speed, angles and obstacles deciding every strike. That depth is strong enough to carry a repetitive mission loop and a thin story, and it makes the grind worth it."
+  },
+  {
     "id": 46,
     "title": "My Hero Academia: All's Justice",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/3WIw_7y3wGU",
     "ip": "my hero academia",
     "image": "images/mhaaj.jpg",
     "platform": "Reviewed on PS5",
