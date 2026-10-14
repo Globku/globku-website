@@ -1,5 +1,41 @@
 [
   {
+    "id": 48,
+    "title": "Baki Hanma: Blood Arena",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "baki hanma",
+    "image": "images/bakihanmaba.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "October 8, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The developers behind Thunder Ray are back with Baki Hanma: Blood Arena, and the Punch-Out inspiration is just as clear the second time around. Every opponent is a boss fight and every fight demands to be learned, which makes for a challenging, satisfying loop. The problem is what surrounds it. For this little content, the price tag is steep."
+      },
+      {
+        "type": "heading",
+        "text": "Fear the Ogre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Punch, dodge or block. The controls are simple, but the game tests every reaction, and it's a hard one to clear. Every opponent is a 3-phase boss fight with unique attacks, and most have only one correct defensive answer. Losing is guaranteed, as trial and error is the only way to learn. Try dodging, and if that fails, block next time, until every attack's correct answer has been found. From there, it becomes a game of reacting with the right one every time.\n\nFacing a new opponent is always scary, but the learning curve is great. The easier attacks click first, the trickier ones reveal themselves quickly, and before long the opponents start falling. Later bosses can take up to an hour to clear, but that only made overcoming them feel better.\n\nFinding a good flow on defense is key, and entering that zone where every dodge lands feels incredible. Offense doesn't hold up as well. Head and body shots make no difference, so attacking turns into mashing, and opponents randomly block any number of hits. That RNG sits awkwardly in a game that demands mechanical perfection from the player.\n\nEven so, learning and clearing each fight is very satisfying, in part thanks to the game's visual and audio style. The problem is how quickly the content runs out."
+      },
+      {
+        "type": "heading",
+        "text": "Baki to Basics"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game offers 2 game modes (Story and Survival) with 2 difficulties (Beast and Demon), but the whole thing is 12 boss fights. Nothing else.\n\nStory Mode does the bare minimum: a couple of slideshows per fight, sometimes just a single line of text, and no voice acting. There's no attempt at retelling any arc of the story for newcomers or existing fans, so calling it a story mode is a stretch.\n\nThe two difficulties change very little, since they're a simple damage slider. The bosses fight exactly the same way. It's harder because the player can afford fewer mistakes, but mastering the fights doesn't feel any different when the movesets stay the same.\n\nSurvival has the player clear the same 12 bosses with limited KOs (and a bit of healing between fights). It's a real test, and a requirement for trophy hunters, but it's still the same fights in a different context.\n\nNot every game needs a lot of content as long as the price matches, and in this case, the $30 price tag is steep. Compared to Thunder Ray, this game does have more opponents, but Thunder Ray tells an actual story with voice acting and costs less than half as much."
+      }
+    ],
+    "verdict": "A challenging Punch-Out homage with a satisfying learning curve, but the price asks for far more content than it offers."
+  },
+  {
     "id": 47,
     "title": "A.O.T. Wings of Freedom",
     "type": "game",
