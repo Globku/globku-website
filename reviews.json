@@ -1,10 +1,54 @@
 [
   {
+    "id": 49,
+    "title": "Naruto X Boruto Ultimate Ninja Storm Connections",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "naruto",
+    "image": "images/narutostormconnections.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "October 15, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Connections takes the Naruto Ultimate Ninja series in a new direction. Rather than retelling the Naruto story, its gameplay and online changes point to a much bigger focus on PvP battles. A rocky launch left the game’s reputation in ruins, but after 2 years of patches and fixes, is it finally worth your money?"
+      },
+      {
+        "type": "heading",
+        "text": "Secret Scroll Tweaks"
+      },
+      {
+        "type": "paragraph",
+        "text": "Connections is built on the basics of Storm 4, but a lot of small changes add up to a significantly different game.\n\nThe biggest highlight is the new combo system. Combos used to feel like exploits, and now they’re a feature every character can enjoy, with combo scaling in place to keep them from getting too strong. Characters also have 2 jutsu instead of just 1. Some of these were Tilt skills in previous games, so there is a bit of recycling, but making them jutsu also gives every character 2 assists, which effectively expands everyone’s moveset.\n\nDozens of smaller tweaks touch how chakra regenerates, how you build the storm gauge, and how counter attacks work. There are too many to list, and most are too small for the casual fan to notice, but with online as the priority this time, they all add up to a better gameplay experience where it matters most.\n\nThere’s also a new optional control scheme, a modern take on Storm’s inputs that feels a lot more natural to play."
+      },
+      {
+        "type": "heading",
+        "text": "Story Time Skip"
+      },
+      {
+        "type": "paragraph",
+        "text": "Given the series history, players probably expected some form of single-player content, and while Connections does try, it’s clearly not the focus. There are 2 main single-player modes: History Mode and Special Story.\n\nHistory Mode compiles the entire Naruto story from Storm 1 to Storm 4, recycling most of the cutscenes and fights from those games. The problem is that it also cuts many of the best moments, along with what made those story modes special. The result is a collection of anime screenshot slideshows and versus battles, without most of the boss fights, free roam or unique encounters that made the Storm games famous in the first place.\n\nSpecial Story, however, got the full CC2 treatment. It’s a complete story mode on its own, with boss fights, CG cutscenes and a good original story with Boruto at the center. There are some cliches, but the new original character Nanashi is incredibly well written, and the twists and turns keep the story engaging. It’s a good story, but with a 6-hour clear time and a lot of filler in the middle, it’s not enough to carry the game by itself.\n\nOutside of single player, the roster was barely expanded. Even with more than 130 characters, only 10 are new compared to Storm 4.\n\nThe price makes Connections an even tougher sell. The Storm Trilogy and Storm 4 put together cost as much as Storm Connections, so on content alone, this game is simply not worth buying."
+      },
+      {
+        "type": "heading",
+        "text": "Live Service Jutsu"
+      },
+      {
+        "type": "paragraph",
+        "text": "With PvP battles as the focus, the online had to level up, and it did. The game has a complete feature set, with Ranked Battles, Casual Battles and 8-player lobbies that include spectating. From time to time it also hosts unique events that have you pick different characters and play with altered rules, which makes the game feel a lot more alive. With every DLC release, CC2 also rebalanced the game, altering the meta and addressing player concerns, something the series had never done before.\n\nOn top of that, this is the best netcode the Storm series has ever had. It’s still delay-based and there’s still no crossplay, so there’s a long way to go, but it’s a step forward without a doubt. For anyone who only cares about playing online against other people, this is the best Naruto Storm game of all time."
+      }
+    ],
+    "verdict": "It’s the best Storm game for players looking for online ninja battles thanks to its combat changes and online features. But the content is thin, the price is steep, and even the best netcode the series has ever had still lags behind the rest of the fighting game genre."
+  },
+  {
     "id": 48,
     "title": "Baki Hanma: Blood Arena",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/7VsNKa_7cL8",
     "ip": "baki hanma",
     "image": "images/bakihanmaba.jpg",
     "platform": "Reviewed on PS5",
