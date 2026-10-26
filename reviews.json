@@ -1,10 +1,54 @@
 [
   {
+    "id": 50,
+    "title": "Demon Slayer: Sweep the Board",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "demon slayer",
+    "image": "images/dsstb.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 6,
+    "date": "October 20, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sweep the Board puts its own Demon Slayer spin on the party board game with a day and night cycle. Up to 4 players roll dice and compete in mini games by day, then hunt demons through quick time events by night. It could be a good alternative to the traditional Mario Party games, if it weren’t so often betrayed by its own design."
+      },
+      {
+        "type": "heading",
+        "text": "Day/Night cycle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thematically, a day and night cycle is the perfect fit for Demon Slayer. Players train through mini games by day so they can hunt demons by night. The problem is that the night is a lot less fun than the day. Daytime mini games bring plenty of variety, but at night they stop and demon battles take over. Those battles all feel very similar: quick time events where you race the other players to finish them first and score more points. That can be fun for a while, but it wears out faster than a rotation of mini games, and not only because there is less variety. The game is also designed to spend far more time at night, so most of its playtime goes to its weakest part."
+      },
+      {
+        "type": "heading",
+        "text": "Content"
+      },
+      {
+        "type": "paragraph",
+        "text": "The mini games themselves are a lot of fun and easily one of the game’s highlights. There just aren’t enough of them. The Mario Party series averages 75 mini games per title, while Sweep the Board features a mere 26. Even with most of the play time spent at night, duplicates show up constantly, because the pool is simply too small for this type of game.\n\nThat said, the game shines in a few other places. The 6 boards each have their own gimmick, so every one plays differently. The roster of 14 characters adds more: each has a unique character dice, usable once every 3 turns, and those dice shape your playstyle. Character choice is more than aesthetic."
+      },
+      {
+        "type": "heading",
+        "text": "Pacing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sweep the Board also doesn’t escape some of the genre’s problems. A full game defaults to 10 turns and takes around an hour to finish, which is longer than this type of game should run. That’s not because there’s a lot to do in each turn. It’s because many small animations queue up behind each other, stretching even the simplest turn longer than it needs to be. You can lower the game to 5 turns, but then barely anything happens. Raising it to 30 can be fun if you need to fill an afternoon, but the animations still make every turn feel like a slog.\n\nIt’s also not a game for random opponents. A few lobbies broke online, but never in games with friends, which is the only way these games are really enjoyable anyway."
+      }
+    ],
+    "verdict": "What could have been a good alternative to Mario Party ends up undermined by its day/night system and its lack of mini games."
+  },
+  {
     "id": 49,
     "title": "Naruto X Boruto Ultimate Ninja Storm Connections",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/FeEoXsAiqjI",
     "ip": "naruto",
     "image": "images/narutostormconnections.jpg",
     "platform": "Reviewed on PS5",
@@ -343,10 +387,6 @@
       {
         "type": "paragraph",
         "text": "This World Seeker DLC follows Sabo during the events of the main game. His combat feels even more limited than Luffy's, a new damage-buff gauge that rewards sustained attacking barely makes up the difference. The bigger shift is a focus on stealth, and that's arguably the worst system the game has to offer."
-      },
-      {
-        "type": "heading",
-        "text": ""
       },
       {
         "type": "paragraph",
@@ -835,20 +875,7 @@
     "score": 7,
     "date": "June 2, 2026",
     "featured": false,
-    "content": [
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      }
-    ],
+    "content": [],
     "verdict": ""
   },
   {
@@ -863,20 +890,7 @@
     "score": 8,
     "date": "June 2, 2026",
     "featured": false,
-    "content": [
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      }
-    ],
+    "content": [],
     "verdict": ""
   },
   {
@@ -1023,28 +1037,7 @@
     "score": 6,
     "date": "May 22, 2026",
     "featured": false,
-    "content": [
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      }
-    ],
+    "content": [],
     "verdict": ""
   },
   {
@@ -1059,28 +1052,7 @@
     "score": 7,
     "date": "May 22, 2026",
     "featured": false,
-    "content": [
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      },
-      {
-        "type": "heading",
-        "text": ""
-      },
-      {
-        "type": "paragraph",
-        "text": ""
-      }
-    ],
+    "content": [],
     "verdict": ""
   },
   {
