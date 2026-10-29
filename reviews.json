@@ -1,10 +1,54 @@
 [
   {
+    "id": 52,
+    "title": "Kill la Kill - IF",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "kill la kill",
+    "image": "images/klkif.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "October 27, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Kill la Kill IF carries an alternate story right in its title, but the real twist is what it does to the Arena Fighter genre: it pulls it closer to a traditional fighting game than ever before. The scope is a bit smaller, but its systems are so unique and fun that it stands with the best games the genre has ever produced. That said, it’s also a budget title, and a few limitations keep it from being brilliant."
+      },
+      {
+        "type": "heading",
+        "text": "Cut From Different Cloth"
+      },
+      {
+        "type": "paragraph",
+        "text": "A big highlight is how each character is designed to play differently. Beyond unique normals, specials and supers, they move at different speeds, have different health amounts and even carry unique meters that support their gimmicks or archetypes. The combo system is just as flexible. The game has a strong combo-breaking mechanic that can be read and countered, so long combos turn into mind games for both players, each looking for the perfect moment to escape or bait the other.\n\nIt’s not a perfect system, though. One of the core mechanics is Bloody Valor, a rock-paper-scissors mini game that can be triggered for some meter and gives the winner unique buffs. Feeling like your character is evolving through the match is fun, and hitting Bloody Valor 3 even unlocks an insta-kill super, but an RPS system betrays a design that otherwise leans competitive.\n\nThere are a few other issues. Health persists between rounds, a controversial choice in the genre, and the camera occasionally acts up. Neither ruins the genius design or the incredible game feel. KLK stands with the best Arena Fighters ever made, which makes it a shame that it’s lacking in a few features."
+      },
+      {
+        "type": "heading",
+        "text": "Two-Star Online"
+      },
+      {
+        "type": "paragraph",
+        "text": "Online should be the main home for a game like this, and while the netcode is solid, it’s still delay-based with no crossplay, which keeps it from getting full marks. It’s decent and reliable as long as you’re not expecting a flawless, delay-free experience.\n\nThe feature set is thin, too. The biggest omission is rematches, which are missing from both casual lobbies and ranked. In casual lobbies that’s no big deal since you can just hit “play” again, but in ranked it means there are no sets, which undercuts the game’s competitive design.\n\nLobbies also hold only 2 players, so there’s no spectating and no playing in a group of friends."
+      },
+      {
+        "type": "heading",
+        "text": "Bare Threads"
+      },
+      {
+        "type": "paragraph",
+        "text": "On the casual side, Story Mode has received the full cinematic treatment. You play through the same story twice, once from Satsuki’s perspective and once from Ryuko’s, and there isn’t a single slideshow in sight. It’s all cutscenes, and it’s all voice acted. The gameplay also goes beyond the occasional 1v1 against the CPU, with encounters like facing the Elite Four alone, a 3-way free-for-all, or a series of boss fights. Story Mode offers plenty of variety.\n\nIt’s short, however. It takes only 3 hours to clear, which makes it feel very thin on content, and everything around it doesn’t help. Survival and Covers Challenge, a mode where you fight hundreds of the same enemy, both feel barebones and repetitive, especially with such a small roster. At only 12 characters, match variety wears thin rather quickly.\n\nThese could all be big enough criticisms to sink a review score, but KLK IF is also priced appropriately at $20. From that perspective, the amount of content isn’t so bad when the basic fighting systems are this good."
+      }
+    ],
+    "verdict": "One of the best Arena Fighters ever made, at a third of the usual price. Expect a thin package and missing online features, but for $20 those limitations are easy to live with."
+  },
+  {
     "id": 50,
     "title": "Demon Slayer: Sweep the Board",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/9sWUOAXwfp0",
     "ip": "demon slayer",
     "image": "images/dsstb.jpg",
     "platform": "Reviewed on PS5",
