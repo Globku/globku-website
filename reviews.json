@@ -1,5 +1,49 @@
 [
   {
+    "id": 53,
+    "title": "Attack on Titan 2",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "attack on titan",
+    "image": "images/aot2.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "October 29, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Attack on Titan 2 is a massive upgrade over Wings of Freedom, especially in how much content it offers. Unfortunately, it also downgrades the core system that made the first game so fun to play."
+      },
+      {
+        "type": "heading",
+        "text": "Cinematic Downgrade"
+      },
+      {
+        "type": "paragraph",
+        "text": "While the game adds a ton of new systems that enhance gameplay in a big way, the ODM movement that underpins all of them feels much worse than before. It’s less manual and more guided, so bumping into a building or losing momentum no longer feels like the player’s fault, but the game’s poor guidance.\n\nThat said, Titan behavior has been upgraded. They can do a lot more, which makes each encounter more unpredictable than before. The new perfect dodge complements these behaviors perfectly, and while it triggers a whole cinematic attack, the dodge itself feels great. Teammates now have different assists, from simple attacks to cinematic nape slices, captures or an emergency flare gun that buffs the player. It builds their identity, even if the constant pausing of gameplay is a bad trade. Bases built in preset spots for resupply, sentries or mining add another layer of strategy.\n\nAll in all, the new systems are a net positive for the series, but the core they’re built on feels less satisfying."
+      },
+      {
+        "type": "heading",
+        "text": "Territory Expansion"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game covers seasons 1 and 2 of the show, with season 3 sold separately as DLC, and tells its story through a nameless soldier: the character you create. Since you mostly play as your own creation this time, equipping skills to build around movement, strength, rapid slashes or captures is a big part of customizing your playstyle.\n\nPutting your character at the center of Story Mode also suits the friendship system. Raising friendship levels with the cast unlocks new skills and exclusive cutscenes, and there is an impressive amount of them, though the writing makes most of them forgettable.\n\nStory Mode runs about 15 hours, after which the real game begins: grinding Scouting Missions and Inferno Mode (New Game Plus) for the materials to upgrade blades, gas canisters and ODM gear. Upgrades are much more noticeable than before, and the designs look great and over the top. The grind is as repetitive as ever, so players who dislike grinding will get little out of it."
+      },
+      {
+        "type": "heading",
+        "text": "Network Formation"
+      },
+      {
+        "type": "paragraph",
+        "text": "With the grind at the heart of the game, online received a revamp. Coop now covers story missions on top of scouting missions, and gear can be developed together, with both players pitching in on a new set of blades. It cuts down on the grind significantly and makes it more fun because you’re doing it with friends.\n\nPvP modes have also been added for the first time. Some have you compete to slay the most Titans, while others have you play as the Titans themselves, hunting humans. They’re fun but very casual, with no progression rewards, so players mostly stuck to coop scouting missions to get better gear."
+      }
+    ],
+    "verdict": "The downgrade in game feel is offset by the sheer jump in content. Much like the first game though, the real value lies in the end-game grind."
+  },
+  {
     "id": 52,
     "title": "Kill la Kill - IF",
     "type": "game",
