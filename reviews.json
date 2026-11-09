@@ -1,5 +1,49 @@
 [
   {
+    "id": 54,
+    "title": "Demon Slayer: The Hinokami Chronicles 2",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "demon slayer",
+    "image": "images/dshc2.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "November 4, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Hinokami Chronicles 2 improves on the first Demon Slayer game in every way. The gameplay is better, the story mode has leveled up, and the online is feature complete at launch. It could use an extra game mode for after the story, and netcode remains one of CC2’s biggest challenges."
+      },
+      {
+        "type": "heading",
+        "text": "Second Breath"
+      },
+      {
+        "type": "paragraph",
+        "text": "The arena fighter returns with a lot of significant changes while keeping its core principles: a more grounded approach than most games in the genre, a combo timer that prevents infinites, and unique movesets for everyone in an upgraded roster of 37 characters, with another 7 sold separately as DLC.\n\nThe gameplay changes promote a more aggressive playstyle, solving one of the first game’s biggest problems: stalling for timeouts, made possible by incredibly strong defensive systems and the ability for demons to heal. It all feels fresh but familiar, so while casual players may barely notice the changes, they’re very significant competitively.\n\nUnlike the first game, some slayers can now play solo and some demons come as preset teams. Fan service also got an upgrade, with a lot of incredible new ultimate animations, including team ultimates if you pick compatible characters.\n\nA new Gear System lets you equip up to 3 gears, each one buffing a specific part of your moveset. It’s mainly used in offline challenges, since Online Ranked disables gear completely."
+      },
+      {
+        "type": "heading",
+        "text": "Lone Pillar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Just like the first game, Story Mode is fully voice acted, with incredible cutscenes that retell the story, this time covering the Entertainment District, Swordsmith Village and Hashira Training arcs. But it’s not merely as good as before. It’s better in every way. Sprinting and jumping make exploring the open areas far more satisfying, every encounter is a unique boss fight or a brand-new horde battle, and CC2’s animation has leveled up once again, matching the original anime’s energy.\n\nIt’s arguably the best CC2 story mode ever made, with a runtime of about 8 hours. That length calls for a few side modes to complete the package, but the rest of the offline content is disappointing.\n\nPath of the Demon Slayer retells the first two seasons of the anime for those who didn’t play the first game. It could’ve reused the first game’s boss fights for a boss rush, but offers basic CPU battles instead. Training Paths had a solid idea, a board where you choose a safer or riskier route to a final boss, but ends up repetitive, with meaningless rewards and difficulty so low it feels like fighting training dummies. Endurance and Survival offer a decent challenge and use the Gear System well, but they’re pretty basic."
+      },
+      {
+        "type": "heading",
+        "text": "Kasugai Connections"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game launched with a complete set of online features. Lobbies hold up to 8 players, with spectating included, and ranked seasons reset every month, with rewards that incentivize returning to grind it out.\n\nIt’s lacking a few matchmaking options. You can’t set many preferences before queuing for ranked, and the connection quality indicator before accepting a match is unreliable. And the netcode is once again delay-based, with no crossplay. It’s not bad for a CC2 game, but it’s still finicky."
+      }
+    ],
+    "verdict": "The best Story Mode CC2 has ever made, accompanied by a complete set of online features. Hinokami Chronicles 2 is a game mode and a netcode away from being a masterpiece."
+  },
+  {
     "id": 53,
     "title": "Attack on Titan 2",
     "type": "game",
