@@ -1,10 +1,90 @@
 [
   {
+    "id": 56,
+    "title": "Phoenix Cyclops",
+    "type": "dlc",
+    "parentGame": "Marvel TOKON: Fighting Souls",
+    "youtubeUrl": "https://youtu.be/DOhZ2U3gx6s",
+    "ip": "",
+    "image": "images/marveltokon_phoenixcyclops.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 8,
+    "date": "November 13, 2026",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "No matter how hardcore a Marvel fan you are, there’s one thing you want to see when playing Cyclops: beams... lots of beams. But this isn’t just any Cyclops, since he also has the power of the Phoenix to back him. ArcSys made some interesting choices here, but played it very safe overall."
+      },
+      {
+        "type": "heading",
+        "text": "Beam Me Up, Scott"
+      },
+      {
+        "type": "paragraph",
+        "text": "To feel like you’re playing Cyclops, you need to constantly throw beams out of your eyeballs, and ArcSys made sure they sit at the core of his moveset. They’re used not only for zoning but also for pressure and mixup, and on hit they build a unique meter that powers an install: the Dark Phoenix. Scott’s Phoenix powers show up in all of his special moves, so it always feels like you’re playing the Phoenix, but the install is when he fully unleashes all of his power."
+      },
+      {
+        "type": "heading",
+        "text": "Visor On"
+      },
+      {
+        "type": "paragraph",
+        "text": "With the Dark Phoenix active, you can dash cancel all your beams and special moves, your combos get saucy, and your movement and pressure turn unpredictable. He feels insane and very unique. But the install doesn’t carry between rounds, so you’ll often be playing the base character, which feels very familiar. A fireball, an attacking lunge, a setup and a command grab are special moves found on a lot of other characters. That makes him beginner friendly, but also a bit safe in his gameplay design."
+      }
+    ],
+    "verdict": "ArcSys nailed the feel of Cyclops but played it a bit safe, at least until the Dark Phoenix comes out to play. That’s when the real character shows!"
+  },
+  {
+    "id": 55,
+    "title": "Dragon Ball: Sparking! ZERO",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "dragon ball",
+    "image": "images/dbsz.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 7,
+    "date": "November 12, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sparking Zero is the biggest Dragon Ball game of the generation, a sequel to the classic Tenkaichi series that modernizes its controls and does almost everything the old games did well. But in the age of online games, doing only what worked in the PS2 era is no longer enough."
+      },
+      {
+        "type": "heading",
+        "text": "Super Counter Productive"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sparking Zero modernizes Tenkaichi very well in almost every way, in both gameplay and roster. Releasing with over 180 characters makes it the biggest launch roster of any Dragon Ball game, and despite a lot of gameplay overlap, it delivers what Tenkaichi always did: trying different fantasy matchups and playing your favorites.\n\nMost mechanics and old combos carry over with a flashier look, alongside new systems like Perception Counters, which counter any attack contextually (sometimes spending skill points), and Revenge Counters, a new combo breaker that costs skill points.\n\nOne returning mechanic is the Super Counter, a free combo breaker with strict timing. Player skill eventually makes it trivial, so high-level play revolves around it, with Super Counters countering Super Counters or endless vanish battles that look very repetitive. It’s part of Tenkaichi’s DNA, but while it stayed niche in couch play, online it became far too commonplace.\n\nThe one downgrade was movement. The new short dash replaces Tenkaichi’s momentum-based dash with what is essentially a step dodge, making the game feel slower, more static and less dynamic."
+      },
+      {
+        "type": "heading",
+        "text": "Tournament of Cheese"
+      },
+      {
+        "type": "paragraph",
+        "text": "Casual couch play was the norm in Tenkaichi 3, but today online is where most players engage with multiplayer. To its credit, online launched feature complete, with rooms that have spectator slots, and ranked and casual queues for solo and team battles with customization capsules on or off. The netcode is pretty good for an anime game, though still delay-based, with no crossplay (yet).\n\nBecause the gameplay wasn’t designed for competitive online play, a point the devs themselves kept making, the consequences were far from what Tenkaichi fans imagined. Instead of a Dragon Ball battle simulation, matches look like timed ki blasts and heavy attacks, since any melee combo can be answered with a Super Counter and the vanish battles that follow. And because balance isn’t a priority, a match is often lost before it starts, depending on the characters picked.\n\nThe “it’s meant to be unbalanced” attitude is an excuse to release an unbalanced game. In the age of online games, it sours the playerbase and breeds a toxic environment."
+      },
+      {
+        "type": "heading",
+        "text": "What If It Had Modes?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The game has 2 main modes and a few side modes, but it’s severely lacking. Episode Battle retells the Dragon Ball Z and Super story from each character’s perspective, with a few What If stories, but it’s mostly slideshows, poorly animated mocap-like cutscenes that don’t feel like Dragon Ball, and versus battles. The What If stories are the reason to play it: the branching triggers are clear, and the writing is phenomenal, sometimes spanning multiple arcs thanks to one changed moment.\n\nCustom Battle lets you build your own scenarios with powerful scripting tools that can change gameplay rules and add alternate endings. Making cutscenes is a nightmare, though: dialogue is hard to browse, can’t be searched, and still sounds awkward when found, as if written in broken English. Good levels are hard to find too, since sorting by popularity often doesn’t surface the best ones.\n\nThe remaining arcade modes (tournaments with custom rules, Mission 100, Survival and the periodically updated Legendary Warrior Face-Off boss battle) are appreciated but pretty basic."
+      }
+    ],
+    "verdict": "The ultimate Dragon Ball roster with flashy combat to live out your wildest fantasy matchups, but not much beyond that. The gameplay is a poor fit for competitive online play, and the game modes lack staying power."
+  },
+  {
     "id": 54,
     "title": "Demon Slayer: The Hinokami Chronicles 2",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/dE4cH1gmV88",
     "ip": "demon slayer",
     "image": "images/dshc2.jpg",
     "platform": "Reviewed on PS5",
@@ -48,7 +128,7 @@
     "title": "Attack on Titan 2",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/HFv2D-7jp0Q",
     "ip": "attack on titan",
     "image": "images/aot2.jpg",
     "platform": "Reviewed on PS5",
@@ -92,7 +172,7 @@
     "title": "Kill la Kill - IF",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/UfHbgErzB8A",
     "ip": "kill la kill",
     "image": "images/klkif.jpg",
     "platform": "Reviewed on PS5",
