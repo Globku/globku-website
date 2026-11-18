@@ -29,6 +29,8 @@ body {
   font-family: var(--font-body);
   min-height: 100vh;
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Subtle scanline texture */
@@ -113,92 +115,14 @@ nav {
 }
 
 /* ─── PAGES ─── */
-.page { display: none; padding-top: 64px; min-height: 100vh; }
+.page { display: none; padding-top: 64px; }
+.page.active, .review-detail.active { flex: 1 0 auto; }
+#page-about.active { display: flex; flex-direction: column; }
+#page-about .about-hero { flex: 1; display: flex; align-items: center; }
+#page-about .about-hero-inner { width: 100%; }
 .page.active { display: block; }
 
 /* ─── HOME ─── */
-.hero {
-  position: relative;
-  min-height: calc(100vh - 64px);
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(ellipse 80% 60% at 60% 50%, rgba(78,203,51,0.06) 0%, transparent 70%),
-    radial-gradient(ellipse 40% 40% at 20% 80%, rgba(78,203,51,0.03) 0%, transparent 60%);
-}
-
-.hero-grid {
-  position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
-  background-size: 60px 60px;
-  mask-image: radial-gradient(ellipse 70% 70% at 60% 50%, black, transparent);
-}
-
-.hero-content {
-  position: relative;
-  z-index: 2;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 4rem 3rem;
-}
-
-.hero-eyebrow {
-  font-family: var(--font-ui);
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 1.5rem;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-}
-
-.hero-eyebrow::before {
-  content: '';
-  display: inline-block;
-  width: 32px;
-  height: 1px;
-  background: var(--accent);
-}
-
-.hero-title {
-  font-family: var(--font-display);
-  font-size: clamp(5rem, 10vw, 9rem);
-  line-height: 0.9;
-  letter-spacing: 0.02em;
-  margin-bottom: 1.5rem;
-}
-
-.hero-title .line2 {
-  color: var(--accent);
-  display: block;
-}
-
-.hero-subtitle {
-  font-size: 1.1rem;
-  line-height: 1.7;
-  color: var(--text-secondary);
-  max-width: 520px;
-  margin-bottom: 2.5rem;
-}
-
-.hero-actions {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-}
-
 .btn-primary {
   font-family: var(--font-ui);
   font-size: 0.85rem;
@@ -236,28 +160,60 @@ nav {
   border-color: rgba(255,255,255,0.2);
 }
 
-.hero-stat-bar {
+.home-stats {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 3rem 4rem;
+}
+
+.home-stats-row {
   display: flex;
-  gap: 3rem;
-  margin-top: 5rem;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
   padding-top: 2rem;
   border-top: 1px solid var(--border);
 }
 
-.hero-stat {
+.stat-bar {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.yt-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 0.9rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.yt-box .yt-icon { width: 48px; height: 34px; }
+
+.yt-box h3 {
+  font-family: var(--font-ui);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.stat {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
 }
 
-.hero-stat-num {
+.stat-num {
   font-family: var(--font-display);
   font-size: 2.5rem;
   color: var(--accent);
   line-height: 1;
 }
 
-.hero-stat-label {
+.stat-label {
   font-family: var(--font-ui);
   font-size: 0.75rem;
   font-weight: 600;
@@ -266,7 +222,7 @@ nav {
   color: var(--text-muted);
 }
 
-/* Featured reviews on home */
+/* Home: recent reviews and stats */
 .section {
   max-width: 1200px;
   margin: 0 auto;
@@ -287,6 +243,8 @@ nav {
 }
 
 .section-title span { color: var(--accent); }
+
+.home-recent { padding-top: 3.5rem; padding-bottom: 3rem; }
 
 .section-link {
   font-family: var(--font-ui);
@@ -620,35 +578,10 @@ nav {
   color: var(--text-secondary);
 }
 
-.yt-link-block {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  padding: 2.5rem;
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  margin-top: 4rem;
-}
-
 .yt-icon {
   width: 56px;
   height: 40px;
   flex-shrink: 0;
-}
-
-.yt-link-block h3 {
-  font-family: var(--font-ui);
-  font-size: 1.1rem;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  margin-bottom: 0.4rem;
-}
-
-.yt-link-block p {
-  font-size: 0.875rem;
-  color: var(--text-secondary);
-  margin-bottom: 1rem;
-  line-height: 1.6;
 }
 
 /* ─── FOOTER ─── */
@@ -841,12 +774,13 @@ footer {
 @media (max-width: 768px) {
   nav { padding: 0 1.5rem; }
   .nav-links { gap: 1.5rem; }
-  .hero-content, .section, .reviews-header, .filter-bar, .reviews-page-grid, .about-section, .about-hero { padding-left: 1.5rem; padding-right: 1.5rem; }
+  .home-stats, .section, .reviews-header, .filter-bar, .reviews-page-grid, .about-section, .about-hero { padding-left: 1.5rem; padding-right: 1.5rem; }
   .about-hero-inner { grid-template-columns: 1fr; gap: 2.5rem; }
   .about-grid { grid-template-columns: 1fr; }
-  .hero-stat-bar { gap: 2rem; flex-wrap: wrap; }
+  .stat-bar { gap: 2rem; flex-wrap: wrap; }
   footer { flex-direction: column; gap: 1rem; text-align: center; }
-  .yt-link-block { flex-direction: column; align-items: flex-start; }
+  .home-stats-row { flex-direction: column; }
+  .yt-box { flex-wrap: wrap; }
 }
 
 /* ─── DLC CARDS ─── */

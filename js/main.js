@@ -5,10 +5,11 @@ function loadReviews() {
     .then(r => r.json())
     .then(data => {
       reviews = data;
-      // Update dynamic review count stat
+      // Update dynamic review count stat (main games only, DLC reviews excluded)
       const countEl = document.getElementById('review-count-stat');
       if (countEl) {
-        const rounded = Math.floor(reviews.length / 10) * 10;
+        const mainGames = reviews.filter(r => r.type !== 'dlc').length;
+        const rounded = Math.floor(mainGames / 10) * 10;
         countEl.textContent = rounded + '+';
       }
       initHome();

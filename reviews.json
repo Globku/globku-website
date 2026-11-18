@@ -1,5 +1,49 @@
 [
   {
+    "id": 57,
+    "title": "Jujutsu Kaisen: Cursed Clash",
+    "type": "game",
+    "parentGame": "",
+    "youtubeUrl": "",
+    "ip": "jujutsu kaisen",
+    "image": "images/jjkcc.jpg",
+    "platform": "Reviewed on PS5",
+    "score": 4,
+    "date": "November 18, 2026",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Jujutsu Kaisen joins the arena fighter space with Cursed Clash, a game built around 2v2 team battles. It brings plenty of unique mechanics, but they come at too high a cost: game feel."
+      },
+      {
+        "type": "heading",
+        "text": "Heavenly Restriction"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cursed Clash is a 2v2 arena fighter in the style of Dissidia or J-Stars. Regular attacks build meter and cursed levels instead of dealing damage, and that meter is spent on Cursed Techniques, which is where the damage comes from. Techniques are slow and easy to dodge in a 1v1, but that’s where the 2v2 format comes in. Teams share a pool of lives, and the first to deplete the opponent’s wins.\n\nThere’s real depth here for those who want to find it. This is one of the best games ever at adapting anime characters into gameplay mechanics, with unique movesets full of gimmicks and buttons loyal to their skills in the show. The problem is game feel.\n\nThe combo limit is strict, so there’s little room for self-expression. Knockdowns take several seconds from the end of a combo to the opponent getting up, which kills momentum. Landing and step dodges have long recovery. Joint Attacks make it worse: an unblockable hit, then a very generous window for the teammate to trigger a cutscene attack. That means guaranteed damage and meter, plus a teleport to mid-stage that leaves the other player rushing back.\n\nEvery one of these decisions has a reason to exist. Without them, the 2v2 format wouldn’t work. But if making the concept work means sacrificing game feel, then the whole project was doomed to begin with."
+      },
+      {
+        "type": "heading",
+        "text": "Domain Contraction"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cursed Clash is also pretty slim on content. It may look feature complete, with Story, Arcade and Co-op modes, but dive into each one and you’ll see how barebones they are.\n\nStory Mode is almost all slideshows, incredibly low effort, and some don’t even have voice acting. There are only 4 CG cutscenes, far too few to retell the whole season and the movie. Gameplay is mostly versus battles with the numbers tweaked (so not always a 2v2), plus fights against minor curses with barely any moveset. It’s an easy skip.\n\nArcade Mode was added post launch and consists of 5 battles with selectable difficulty and a randomized path. It was a nice addition, but it’s as basic as arcade modes get.\n\nFinally, there’s the Co-op mode. You can pick a CPU partner for it, but it shines the most when played online."
+      },
+      {
+        "type": "heading",
+        "text": "Blindfold On"
+      },
+      {
+        "type": "paragraph",
+        "text": "Co-op is the best PVE mode Cursed Clash has. You pick any character and take on 3 waves of randomized enemies with a partner, which could be minor curses, normal battles or boss fights. At the end of a run you get XP to level up any character, plus a shop that sells equippable items with stat buffs. It’s fun for a couple of hours, but quickly gets repetitive and grindy, with later levels demanding a lot of playtime for a single level up. Gameplay never changes as you grow stronger either. The numbers get bigger, but the enemies and environments stay the same. It’s a glorified arcade mode with a basic RPG layer to artificially add playtime, and the end goal is clearing Survival Mode against high-level CPUs, so you’re really grinding to beat another arcade mode.\n\nPvP has ranked and unranked modes, plus private lobbies. Lobbies hold up to 4 players with no spectator slots, and beyond 1v1 or 2v1 matches there’s nothing but standard gameplay. Tournaments work around this by spectating a single player’s point of view, which doesn’t give the full picture. So even for players who want to find the competitive depth hidden beneath all that terrible game feel, the game fights them every step of the way. The delay-based netcode with no crossplay doesn’t help either."
+      }
+    ],
+    "verdict": "It may be one of the best games ever at adapting anime characters into gameplay mechanics, but sacrificing game feel and lacking good game modes means it fails on every other level."
+  },
+  {
     "id": 56,
     "title": "Phoenix Cyclops",
     "type": "dlc",
@@ -40,7 +84,7 @@
     "title": "Dragon Ball: Sparking! ZERO",
     "type": "game",
     "parentGame": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/inH1lDiKTn8",
     "ip": "dragon ball",
     "image": "images/dbsz.jpg",
     "platform": "Reviewed on PS5",

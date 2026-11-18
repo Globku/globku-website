@@ -23,46 +23,40 @@
 
   <!-- ─── HOME ─── -->
   <div id="page-home" class="page active">
-    <section class="hero">
-      <div class="hero-bg"></div>
-      <div class="hero-grid"></div>
-      <div class="hero-content">
-        <div class="hero-eyebrow">Anime Game Reviews</div>
-        <h1 class="hero-title">
-          RAISING<br>
-          <span class="line2">THE BAR.</span>
-        </h1>
-        <p class="hero-subtitle">
-          I review anime games because I want them to be better. A decade of covering them means I've seen enough cash grabs and genuine efforts to know the difference.
-        </p>
-        <div class="hero-actions">
-          <a href="#" class="btn-primary" onclick="navigateTo('page-reviews'); return false;">Read Reviews</a>
-          <a href="#" class="btn-ghost" onclick="navigateTo('page-about'); return false;">About Globku</a>
-        </div>
-        <div class="hero-stat-bar">
-          <div class="hero-stat">
-            <span class="hero-stat-num">10+</span>
-            <span class="hero-stat-label">Years Experience</span>
-          </div>
-          <div class="hero-stat">
-            <span class="hero-stat-num" id="review-count-stat">0+</span>
-            <span class="hero-stat-label">Reviews</span>
-          </div>
-          <div class="hero-stat">
-            <span class="hero-stat-num">400K+</span>
-            <span class="hero-stat-label">YouTube Subs</span>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
+    <section class="section home-recent">
       <div class="section-header">
         <h2 class="section-title">RECENT <span>REVIEWS</span></h2>
         <a href="#" class="section-link" onclick="navigateTo('page-reviews'); return false;">All reviews →</a>
       </div>
       <div class="reviews-grid" id="home-reviews"></div>
     </section>
+
+    <section class="home-stats">
+        <div class="home-stats-row">
+          <div class="stat-bar">
+        <div class="stat">
+          <span class="stat-num">10+</span>
+          <span class="stat-label">Years Experience</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num" id="review-count-stat">0+</span>
+          <span class="stat-label">Reviews</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">400K+</span>
+          <span class="stat-label">YouTube Subs</span>
+        </div>
+      </div>
+          <div class="yt-box">
+            <svg class="yt-icon" viewBox="0 0 90 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M88.1 9.9C87.1 6.3 84.3 3.5 80.7 2.5C73.6 0.6 45.4 0.6 45.4 0.6C45.4 0.6 17.2 0.6 10.1 2.5C6.5 3.5 3.7 6.3 2.7 9.9C0.8 17 0.8 31.5 0.8 31.5C0.8 31.5 0.8 46 2.7 53.1C3.7 56.7 6.5 59.5 10.1 60.5C17.2 62.4 45.4 62.4 45.4 62.4C45.4 62.4 73.6 62.4 80.7 60.5C84.3 59.5 87.1 56.7 88.1 53.1C90 46 90 31.5 90 31.5C90 31.5 90 17 88.1 9.9Z" fill="#FF0000"/>
+          <path d="M36.4 44.9L59.4 31.5L36.4 18.1V44.9Z" fill="white"/>
+        </svg>
+            <h3>Also on YouTube</h3>
+            <a href="https://youtube.com/Globku" target="_blank" class="btn-primary">Visit Channel</a>
+          </div>
+        </div>
+      </section>
   </div>
 
   <!-- ─── REVIEWS ─── -->
@@ -103,20 +97,6 @@
           <p>
             I think this criticism is important to distinguish the cash grab from the genuine thing. Only this way can fans know where to best spend their money. Only this way can we provide developers with feedback on what we like and what we don't like. Only this way can we make <strong>Anime Games</strong> better!
           </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="about-section">
-      <div class="yt-link-block">
-        <svg class="yt-icon" viewBox="0 0 90 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M88.1 9.9C87.1 6.3 84.3 3.5 80.7 2.5C73.6 0.6 45.4 0.6 45.4 0.6C45.4 0.6 17.2 0.6 10.1 2.5C6.5 3.5 3.7 6.3 2.7 9.9C0.8 17 0.8 31.5 0.8 31.5C0.8 31.5 0.8 46 2.7 53.1C3.7 56.7 6.5 59.5 10.1 60.5C17.2 62.4 45.4 62.4 45.4 62.4C45.4 62.4 73.6 62.4 80.7 60.5C84.3 59.5 87.1 56.7 88.1 53.1C90 46 90 31.5 90 31.5C90 31.5 90 17 88.1 9.9Z" fill="#FF0000"/>
-          <path d="M36.4 44.9L59.4 31.5L36.4 18.1V44.9Z" fill="white"/>
-        </svg>
-        <div>
-          <h3>Also on YouTube</h3>
-          <p>Video content, impressions, and deep dives on the Globku channel, where this all started. Over a decade of anime game coverage.</p>
-          <a href="https://youtube.com/Globku" target="_blank" class="btn-primary">Visit Channel</a>
         </div>
       </div>
     </div>
